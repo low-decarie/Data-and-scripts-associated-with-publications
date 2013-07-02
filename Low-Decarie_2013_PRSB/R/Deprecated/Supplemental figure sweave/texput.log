@@ -1,0 +1,23 @@
+This is XeTeX, Version 3.1415926-2.2-0.9997.4 (TeX Live 2010) (format=xelatex 2010.7.21)  25 MAY 2012 11:26
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**\nonstopmode \input /Users/LowDecarie/Dropbox/co2_selection/R/Supplemental fi
+gure sweave/supplemental_figure_sweave.tex
+
+! Emergency stop.
+<*> ...carie/Dropbox/co2_selection/R/Supplemental 
+                                                  figure sweave/supplemental...
+*** (job aborted, file error in nonstop mode)
+
+ 
+Here is how much of TeX's memory you used:
+ 3 strings out of 494542
+ 64 string characters out of 3157455
+ 47416 words of memory out of 3000000
+ 3354 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 669 hyphenation exceptions out of 8191
+ 4i,0n,3p,1b,8s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.
