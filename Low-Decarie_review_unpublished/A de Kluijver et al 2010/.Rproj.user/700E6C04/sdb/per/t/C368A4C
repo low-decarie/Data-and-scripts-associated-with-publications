@@ -1,0 +1,16 @@
+{
+    "contents" : "rm(list=ls())\nrequire(plyr)\nrequire(ggplot2)\nrequire(reshape)\nrequire(scales)\nrequire(gridExtra)\nlibrary(grid)\n\nsource(\"./R/theme.R\")\ntheme_set(theme_minimal())\n\npdf(\"./A de Kluijver et al 2010.pdf\")\n\nd <- read.csv(\"./A de Kluijver et al 2010.csv\")\n\np <- qplot(data=d,\n           x=CO2,\n           y=Biomass,\n           stat=\"identity\",\n           ylab=\"Biomass\",\n           fill=Group,\n           geom=\"bar\",\n           size=I(2))\n\np <- p + scale_fill_brewer(type=\"qualitative\",\n                             palette=\"Paired\")\n\nprint(p)\n\np <- qplot(data=d,\n           x=CO2,\n           y=Relative.frequency,\n           stat=\"identity\",\n           ylab=\"Relative frequency\",\n           colour=Group,\n           geom=\"line\",\n           size=I(2),\n           ylim=c(0,0.6))\n\np <- p + scale_colour_brewer(type=\"qualitative\",\n                           palette=\"Paired\")\n\nprint(p)\n\ngraphics.off()",
+    "created" : 1371515173708.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "686640742",
+    "id" : "C368A4C",
+    "lastKnownWriteTime" : 1371516186,
+    "path" : "~/Documents/PhD/Reports/Reviews/A de Kluijver et al 2010/A de Kluijver et al 2010.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

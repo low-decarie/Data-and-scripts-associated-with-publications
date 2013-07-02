@@ -1,0 +1,15 @@
+{
+    "contents" : "theme_minimal <- function (base_size = 12, base_family = \"\") \n{\n  require(grid)\ntheme_grey(base_size = base_size, base_family = base_family) %+replace%\ntheme(\n  axis.line = element_blank(),\n  axis.text.x = element_text(family = base_family,size = base_size * 0.9, lineheight = 0.9, vjust = 0), \n  axis.text.y = element_text(family = base_family, size = base_size * 0.9, lineheight = 0.9, hjust = 1), \n  axis.ticks = element_line(colour = \"black\", size = 0.2),\n  axis.title.x = element_text(family = base_family, face=\"bold\",  size = base_size, vjust = 0), \n  axis.title.y = element_text(family = base_family, face=\"bold\", size = base_size, angle = 90, vjust = 0.5),\n  axis.ticks.length = unit(0.3, \"lines\"), axis.ticks.margin = unit(0.5, \"lines\"),\n  legend.background = element_rect(colour = NA), \n  legend.margin = unit(0.2, \"cm\"), legend.key = element_rect(colour = NA), \n  legend.key.size = unit(1.2, \"lines\"), legend.key.height = NULL,\n  legend.key.width = NULL, legend.text = element_text(family = base_family, size = base_size * 1), \n  legend.text.align = NULL,\n  legend.title = element_text(family = base_family, size = base_size * 0.8, face = \"bold\", hjust = 0), \n  legend.title.align = NULL,\n  #legend.position = \"none\", \n  #legend.direction = \"vertical\", \n  legend.justification = \"center\",\n  legend.box = NULL, \n  panel.background = element_rect(fill = \"white\", colour = NA), \n  panel.border = element_rect(fill = NA, colour = \"grey90\"), \n  panel.grid.major = element_line(colour = \"grey90\", size = 0.2), \n  panel.grid.minor = element_line(colour = \"grey98\", size = 0.5), \n  panel.margin = unit(0.25, \"lines\"),\n  strip.background = element_rect(fill = NA, colour = NA), \n  strip.text.x = element_text(family = base_family, size = base_size * 0.7),\n  strip.text.y = element_text(family = base_family, size = base_size * 0.7, angle = -90),\n  plot.background = element_rect(colour = NA),\n  plot.title = element_text(family = base_family, size = base_size * 1.2),\n  plot.margin = unit(c(1, 1, 0.5, 0.5), \"lines\")\n) \n}",
+    "created" : 1372768148528.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2721631812",
+    "id" : "B636F948",
+    "lastKnownWriteTime" : 1372768337,
+    "path" : "~/Documents/PhD/Reports/Reviews/conceptual_plots/R/theme.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

@@ -1,0 +1,16 @@
+{
+    "contents" : "rm(list=ls())\nrequire(plyr)\nrequire(ggplot2)\nrequire(reshape)\n\nsource(\"./R/theme.R\")\ntheme_set(theme_minimal())\n\n#create data\nTime <- 1:100\nr <- 0.05\nK <- 0.5\nP0 <- 0.1\ngrowth <- function(Time,r,K, P0){\n  biomass <- (K*P0*exp(r*Time))/(K+P0*(exp(r*Time)-1))\n  return(biomass)\n}\n  \nd <- data.frame(Time=Time,\n                limited=growth(Time,r,K,P0),\n                rate_increase=growth(Time,r*2,K,P0),\n                yield_increase=growth(Time,r,K*2,P0),\n                both=growth(Time,r*2,K*2,P0))\n\nmoltend.d <- melt(d, id.vars=\"Time\")\n\np <- qplot(data=moltend.d,\n           x=Time,\n           y=value,\n           ylab=\"Biomass\",\n           colour=variable,\n           lty=variable,\n           geom=\"line\",\n           size=I(2))\n\np <- p + scale_colour_brewer(name=\"Scenarios\",\n                             type=\"qualitative\",\n                             palette=\"Paired\",\n                             labels=c(\"Rate and yield limited\",\n                                      \"Addition of rate limiting resource\",\n                                      \"Addition of yield limiting resource\",\n                        \"Addition of both rate and yield limiting resources\"),\n                             guide=guide_legend(ncol=2,label.hjust=0,keywidth = 2))\n\np <- p + scale_linetype_manual(name=\"Scenarios\",\n                                 values=c(\"limited\"=1,\n                                          \"rate_increase\"=11,\n                                          \"yield_increase\"=22,\n                                          \"both\"=33),\n                                 labels=c(\"Rate and yield limited\",\n                                        \"Addition of rate limiting resource\",\n                                        \"Addition of yield limiting resource\",\n                        \"Addition of both rate and yield limiting resources\"),\n                                 guide=guide_legend(ncol=2,label.hjust=0,keywidth = 10))\n\np <- p + theme(legend.position=\"bottom\")\n\n\n\n\npdf(\"./Plots/rate_vs_yield_limitation.pdf\", width=10)\nprint(p)\ngraphics.off()\n\nprint(p)",
+    "created" : 1372768150683.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3842327617",
+    "id" : "3A01C755",
+    "lastKnownWriteTime" : 1371473903,
+    "path" : "~/Documents/PhD/Reports/Reviews/conceptual_plots/R/rate_vs_yield_limitation.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
