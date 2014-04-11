@@ -18,9 +18,9 @@ http://dx.doi.org/10.1098/rspb.2012.2598
 data permanently available at:    
 http://dx.doi.org/10.5061/dryad.6d250
 
-## Low-Decarie_review_unpublished
-Data and scripts for the first chapter of my PhD thesis.
-
-## Low-Decarie_mesocosm_unpublished
-Data and scripts for the fourth chapter of my PhD thesis.  
-Manuscript currently under review.  
+## Low-Decarie_2014_TREE
+Etienne Low-Décarie, Gregor F Fussmann, Graham Bell (2014) Aquatic primary production in a high-CO2 world., Trends in ecology & evolution
+publication availbale [here]
+(http://dx.doi.org/10.1016/j.tree.2014.02.006)
+data permanently available at:
+http://dx.doi.org/10.5061/dryad.1q77m 
