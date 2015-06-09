@@ -1,0 +1,723 @@
+name,in-28F,pH2_s-28F,1-28F,2-28F,3-28F,4-28F,62-28F,48-28F,53-28F,65-28F,60-28F,67-28F,90-28F,85-28F,96-28F,97-28F,98-28F,106-28F,71-28F,79-28F,pH2_r-28F,pH12-28F,salt-28F
+Sphingobacterium sp,0,0,0,0,0,0,0,0,0,0,9,7,0,0,0,0,0,0,0,0,0,4471,61
+Burkholderia sp,0,0,1,0,9,0,7,249,30,36,130,17,692,1593,0,4733,3006,3674,0,23,0,0,0
+Paenibacillus sp,0,0,11,50,2,20,82,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stenotrophomonas maltophilia::Stenotrophomonas sp,0,0,2,0,0,0,0,0,0,437,0,199,0,0,0,0,0,0,0,0,0,0,0
+Burkholderia ubonensis,0,0,0,0,0,0,0,0,0,0,0,0,6,15,0,0,3,0,0,0,0,0,0
+Pseudomonas sp,37,0,570,3549,782,4151,4900,94,275,22,53,26,2334,28,0,0,0,0,77,3,0,3,46
+Paenibacillus odorifer,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Xanthomonas sp,0,0,0,0,0,0,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,2916,1
+Synechococcus sp,0,3803,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,14
+Burkholderia phenazinium,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,11,317,0,0,0,0,0
+Staphylococcus warneri::Staphylococcus sp::Staphylococcus haemolyticus,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0
+Staphylococcus haemolyticus,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkholderia tropica,0,0,0,0,0,1,0,0,13,205,20,48,0,3,0,0,0,0,23,4134,0,0,0
+Staphylococcus warneri::Staphylococcus haemolyticus::Staphylococcus sp,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+Staphylococcus haemolyticus::Staphylococcus auricularis,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stenotrophomonas sp,0,0,0,0,0,0,7,0,0,1078,0,727,0,0,0,0,0,0,0,0,0,0,0
+Stenotrophomonas maltophilia::Stenotrophomonas sp::Xanthomonas sp,0,0,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aphanocapsa sp,0,243,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,22
+Chryseobacterium sp,0,0,8,0,0,594,11,0,7,0,3,5,0,0,0,0,0,0,0,0,0,0,0
+Achromobacter xylosoxidans::Achromobacter sp,0,0,0,0,0,0,0,14,1,0,2,0,0,42,0,0,0,0,6,0,0,0,0
+Burkholderia cepacia::Burkholderia sp,0,0,0,0,0,0,0,0,0,0,0,0,158,268,0,0,0,0,0,0,0,0,0
+Alcaligenes sp,1,0,0,0,0,0,0,0,0,0,2,0,0,8,0,0,0,0,0,0,0,15,0
+Halomicronema sp,0,6563,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Achromobacter sp,0,0,0,0,0,0,0,1,4,0,2,0,0,13,0,0,0,0,10,0,0,0,0
+Massilia sp,0,0,10,6,1,4,2,30,11,0,28,0,0,65,224,0,0,0,0,0,0,0,0
+Burkholderia tropica::Burkholderia sp,0,0,0,0,0,4,0,0,33,274,23,59,0,0,0,0,0,0,30,5759,0,0,0
+Stenotrophomonas maltophilia,0,0,8,0,0,0,0,0,0,18,0,9,0,0,0,0,0,0,0,0,0,0,0
+Burkholderia cepacia::Burkholderia ambifaria::Burkholderia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Burkholderia phytofirmans::Burkholderia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,5,0,0,0,0,0
+Pedobacter sp,9144,4,6,0,11,0,0,56,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Dyella japonica,0,0,0,0,0,0,0,78,4,0,31,2,543,651,0,0,1735,0,0,0,0,0,0
+Paenibacillus mendelii,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkholderia fungorum::Burkholderia sp,0,0,0,0,0,0,0,0,6,25,7,0,0,18,0,1,73,1,0,0,0,0,0
+Delftia tsuruhatensis::Delftia sp,0,0,0,0,0,0,0,0,0,73,0,135,0,0,0,0,0,0,0,0,0,0,0
+Janthinobacterium sp,0,0,0,972,0,212,1322,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkholderia sordidicola,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,3,0,0,0,0,0,0
+Arenimonas malthae,0,0,0,0,0,0,0,0,6,17,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkholderia phenazinium::Burkholderia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0
+Burkholderia vietnamiensis::Burkholderia sp::Burkholderia cepacia,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Delftia sp,0,0,0,0,0,1,0,0,0,143,0,334,0,0,0,0,0,0,0,0,0,0,0
+Burkholderia cepacia,0,0,0,0,0,0,0,0,0,0,0,0,29,35,0,0,0,0,0,0,0,0,0
+Burkholderia cenocepacia,0,0,0,0,0,0,0,0,0,0,0,0,3,8,0,0,0,0,0,0,0,0,0
+Achromobacter xylosoxidans::Achromobacter sp::Alcaligenes sp,0,0,0,0,0,0,0,3,0,0,1,0,0,8,0,0,0,0,0,0,0,0,0
+Serratia liquefaciens,0,0,131,0,6,2,0,389,208,7,521,0,0,774,502,0,0,0,0,0,0,0,0
+Acetobacter pasteurianus,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas chlororaphis::Pseudomonas sp,0,0,1,21,0,143,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas fluorescens::Pseudomonas veronii::Pseudomonas sp,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microvirgula aerodenitrificans,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas veronii,0,0,48,42,0,249,70,0,51,3,3,16,0,0,0,0,0,0,0,25,0,0,0
+Achromobacter xylosoxidans::Alcaligenes sp,0,0,0,0,0,0,0,3,0,0,4,0,0,11,0,0,0,0,0,0,0,0,0
+Burkholderia oklahomensis,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0
+Cupriavidus basilensis::Ralstonia sp,0,0,0,0,0,15,0,0,11,0,10,1,0,0,0,0,0,0,0,0,0,0,0
+Burkholderia phytofirmans::Burkholderia sordidicola,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Burkholderia phytofirmans,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,0,0
+Dyella soli::Dyella sp,0,0,0,0,0,0,0,112,27,4,196,18,303,2323,0,0,347,0,0,0,0,0,0
+Duganella sp,0,0,0,7,0,23,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkholderia xenovorans,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+Comamonas testosteroni::Comamonas sp,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas trivialis::Pseudomonas sp,0,0,125,84,1,655,151,1,123,9,15,23,0,0,0,0,0,0,0,48,0,0,0
+Burkholderia glumae,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Serratia liquefaciens::Rahnella sp,0,0,5,0,0,0,0,28,8,0,31,0,0,67,41,0,0,0,0,0,0,0,0
+Aquitalea magnusonii,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkholderia xenovorans::Burkholderia sp,0,0,0,0,0,0,0,0,0,0,4,0,2,1,0,0,7,2,0,0,0,0,0
+Pseudomonas chlororaphis,0,0,0,5,0,37,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkholderia gladioli,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0
+Serratia proteamaculans::Serratia sp::Pseudomonas sp,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Rhodanobacter sp,0,0,0,0,0,0,0,0,0,2,7,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas congelans::Pseudomonas sp::Pseudomonas tremae,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Herbaspirillum sp,0,0,0,2,0,130,8,0,2,0,0,0,0,0,466,0,0,0,0,10,0,0,0
+Pseudomonas syringae,0,0,3,2,0,19,7,0,9,0,2,0,0,0,0,0,0,0,1,0,0,0,0
+Duganella zoogloeoides,0,0,0,9,0,16,13,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Achromobacter xylosoxidans::Alcaligenes faecalis,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0
+Achromobacter sp::Alcaligenes sp,0,0,0,0,0,0,0,3,1,0,2,0,0,2,0,0,0,0,0,0,0,0,0
+Streptococcus mitis,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+Comamonas sp,0,0,0,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas trivialis::Pseudomonas sp::Pseudomonas marginalis::Pseudomonas veronii,0,0,51,19,0,266,35,0,39,10,7,5,0,0,0,0,0,0,0,21,0,0,0
+Pectobacterium carotovorum,0,0,3,0,0,1,0,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Staphylococcus epidermidis,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas fluorescens,0,0,10,1,1,1,9,139,32,11,19,5,1,0,0,0,0,0,767,0,0,0,0
+Pseudomonas fluorescens::Pseudomonas sp,0,0,1075,883,11,43,1153,814,101,88,63,5,3851,0,0,0,0,0,2974,0,0,0,0
+Pseudomonas putida,0,0,63,396,1,5,470,0,60,0,0,0,240,0,0,0,0,0,0,0,0,0,1
+Pseudomonas putida::Pseudomonas sp,0,0,307,652,2888,17,675,0,219,8,11,1,194,0,0,0,0,0,0,1,0,0,0
+Massilia timonae,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dyella sp,0,0,0,0,1,0,0,38,13,9,46,3,81,774,0,0,224,0,0,0,0,0,0
+Halomicronema metazoicum,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas veronii::Pseudomonas sp,0,0,0,10,0,10,6,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+Curvibacter gracilis::Curvibacter lanceolatus,0,0,0,3,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Halomicronema excentricum::Aphanocapsa sp,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Streptococcus sp,0,0,0,0,0,0,0,0,20,5,12,0,0,0,0,0,0,0,0,0,0,0,0
+Burkholderia ambifaria::Burkholderia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Pseudomonas jessenii,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Geitlerinema sp,0,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0
+Duganella sp::Janthinobacterium sp,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aminomonas sp::Methylobacillus sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0
+Pseudomonas syringae::Pseudomonas sp,0,0,0,2,0,4,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Halomicronema sp::Aphanocapsa sp,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkholderia plantarii,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Methylophaga sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+Pseudomonas trivialis::Pseudomonas sp::Pseudomonas chlororaphis::Pseudomonas marginalis,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkholderia ambifaria,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Citrobacter braakii::Citrobacter sp,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas trivialis::Pseudomonas sp::Pseudomonas veronii,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Halomicronema sp::Geitlerinema sp,0,228,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudoscillatoria coralii,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas antarctica,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cronobacter sakazakii::Enterobacter sp,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Buttiauxella noackiae,0,0,6,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dolichospermum fallax,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0
+Pseudomonas lutea::Pseudomonas sp,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,32,0,0,0,0
+Leifsonia lichenia,0,0,0,0,0,0,0,6,7,0,16,0,0,2,0,0,0,0,0,0,0,0,0
+Nocardia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0
+Pseudomonas fluorescens::Pseudomonas sp::Pseudomonas putida,0,0,0,1,0,1,4,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Serratia fonticola,0,0,0,24,0,9,54,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0
+Pseudomonas synxantha,0,0,14,15,0,2,25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aquitalea sp,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoogloea sp,0,0,0,3,0,7,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dolichospermum fallax::Aphanizomenon cf gracile::Anabaena cylindrica,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Enterobacter sp,0,0,9,0,3,9,0,1,11,11,6,0,0,0,3,0,0,0,0,0,0,0,0
+Herbaspirillum seropedicae,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Aeromonas sp,0,0,0,0,0,5,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+Malikia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,13
+Aeromonas caviae::Aeromonas enteropelogenes::Aeromonas punctata::Aeromonas sp,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Citrobacter freundii::Hafnia sp::Citrobacter sp,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Halomicronema sp::Synechococcus sp,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Serratia entomophila,0,0,0,0,0,0,0,0,24,3,35,0,0,0,0,0,0,0,0,0,0,0,0
+Aeromonas hydrophila,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aeromonas punctata::Aeromonas sp,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Propionibacterium sp,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+Achromobacter xylosoxidans,0,0,0,0,0,0,0,0,0,0,1,0,0,16,0,0,0,0,13,0,0,0,0
+Prochlorococcus sp,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Enterobacter ludwigii::Pantoea sp,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aeromonas punctata,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aeromonas taiwanensis::Aeromonas sp::Aeromonas punctata,0,0,0,0,0,11,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkholderia vietnamiensis,0,0,0,0,0,0,0,0,0,0,0,0,3,11,0,0,0,0,0,0,0,0,0
+Variovorax sp,0,0,4,0,0,3,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Massilia sp::Janthinobacterium sp,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anabaena sp,39,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2149,2,5
+Serratia proteamaculans::Serratia sp,0,0,21,0,0,1,0,186,44,1,145,0,0,302,445,0,0,0,0,0,0,0,0
+Serratia sp,0,0,158,15,7,11,28,580,384,4,888,0,0,1565,3929,0,0,0,36,0,0,0,0
+Frateuria sp,0,0,0,0,0,0,0,0,0,1,1,0,1,20,0,0,0,0,0,0,0,0,0
+Plectonema cf battersii,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nitrobacteria sp::Porphyrobacter sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Aeromonas caviae::Aeromonas enteropelogenes::Aeromonas punctata,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas teessidea::Pseudomonas sp,0,0,0,1,0,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pantoea agglomerans::Klebsiella sp,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Serratia liquefaciens::Serratia proteamaculans::Serratia sp,0,0,51,0,0,1,1,327,96,0,298,0,0,675,860,0,0,0,0,0,0,0,0
+Aranicola sp,0,0,1,0,0,0,0,18,24,0,58,0,0,66,26,0,0,0,0,0,0,0,0
+Mitsuaria sp,0,0,0,7,1,1,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Propionibacterium acnes::Propionibacterium sp,0,0,0,0,0,0,0,0,32,9,6,6,0,0,0,0,0,0,0,0,0,0,0
+Serratia liquefaciens::Serratia proteamaculans,0,0,3,0,0,0,0,2,4,0,5,0,0,20,4,0,0,0,0,0,0,0,0
+Nitrobacteria sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Citrobacter freundii::Citrobacter sp,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Raoultella ornithinolytica::Klebsiella sp,0,0,0,0,0,8,0,0,0,6,1,0,0,0,0,0,0,0,0,20,0,0,0
+Leptolyngbya sp,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2
+Herbaspirillum frisingense,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Plectonema cf battersii::Halomicronema sp,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dolichospermum fallax::Aphanizomenon cf gracile::Anabaena cylindrica::Dolichospermum planctonicum,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aphanizomenon ovalisporum::Anabaena bergii,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Geodermatophilus obscurus,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pantoea sp,0,0,27,2,0,0,4,0,26,14,8,0,0,0,0,0,0,0,0,0,0,0,0
+Serratia liquefaciens::Serratia sp,0,0,16,1,0,2,0,94,27,0,97,0,0,210,316,0,0,0,0,0,0,0,0
+Asaia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,221,0,0,0,0,0
+Serratia marcescens::Serratia sp,0,0,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0,0,1293,0,0,0,0
+Yersinia kristensenii::Aeromonas sp::Yersinia sp,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Klebsiella sp,0,0,3,2,0,4,0,1,0,0,5,0,0,3,1,0,0,0,0,4,0,0,0
+Aphanizomenon cf gracile::Anabaena cylindrica,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anabaena cylindrica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,853,1505
+Serratia plymuthica::Rahnella sp,0,0,39,0,0,3,2,33,13,3,14,0,0,58,210,0,0,0,0,0,0,0,0
+Enterobacter amnigenus,0,0,0,0,0,9,0,0,0,0,4,0,0,0,0,0,0,0,2,0,0,0,0
+Rahnella sp,0,0,8,0,2,2,0,11,3,47,26,2,0,21,137,0,99,0,0,34,0,0,0
+Phormidium sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,58
+Leptolyngbya antarctica,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dolichospermum circinale,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Serratia plymuthica::Serratia sp::Serratia proteamaculans,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0
+Cronobacter sakazakii,0,0,4,0,0,1,0,2,1,0,0,0,0,1,9,0,0,0,0,0,0,0,0
+Microvirgula sp,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aranicola proteolyticus,0,0,1,0,0,0,0,7,0,0,1,0,0,2,4,0,0,0,0,0,0,0,0
+Chryseobacterium taiwanense,0,0,0,0,0,110,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Citrobacter freundii,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Serratia plymuthica,0,0,10,0,0,0,0,10,2,0,6,0,0,20,72,0,0,0,0,0,0,0,0
+Nostochopsis lobatus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6
+Trichormus variabilis,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4
+Pseudomonas sp::Serratia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Rhizobium sp,0,0,1,0,0,2,2,0,0,0,0,0,11,1,0,0,0,0,0,0,0,60,175
+Gloeocapsa sp,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3
+Aquitalea magnusonii::Aquitalea sp,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas trivialis,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ewingella americana,0,0,0,0,1,0,0,0,1,16,11,0,0,0,0,0,936,0,0,0,0,0,0
+Cyanothece sp,264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Gloeocapsa sp::Cyanothece sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,11
+Aranicola sp::Serratia sp,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0
+Merismopedia glauca,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Citrobacter sp,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yersinia sp,0,0,0,0,0,3,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0
+Massilia albidiflava,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asaia bogorensis::Asaia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Leptolyngbya frigida,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Klebsiella sp::Enterobacter sp,0,0,0,0,0,6,1,0,0,1,1,0,0,0,0,0,0,0,0,18,0,0,0
+Serratia proteamaculans,0,0,1,0,2,0,0,1,13,2,13,0,0,0,3,0,0,0,0,0,0,0,0
+Serratia plymuthica::Rahnella sp::Aranicola proteolyticus,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Aeromonas caviae,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stigonema ocellatum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8
+Massilia sp::Serratia sp,0,0,22,0,1,4,0,63,35,1,84,0,0,111,656,0,0,0,0,0,0,0,0
+Halomicronema excentricum,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hafnia alvei,0,0,0,0,0,0,0,0,0,1,10,0,0,0,0,0,0,0,0,0,0,0,0
+Aeromicrobium sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0
+Enterobacter sp::Klebsiella sp,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Serratia liquefaciens::Massilia sp::Serratia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Agrobacterium rhizogenes::Agrobacterium sp::Rhizobium sp,0,0,0,0,0,0,0,14,27,0,49,0,236,63,0,0,0,0,0,0,0,0,0
+Microcoleus chthonoplastes,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Duganella zoogloeoides::Duganella sp,0,0,0,2,0,11,10,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bradyrhizobium sp,1,0,1,0,0,0,0,0,2,59,0,83,27,10,0,0,0,0,0,0,0,0,0
+Afipia sp::Bradyrhizobium sp,0,0,0,0,0,0,1,0,0,25,0,11,0,0,0,0,0,0,0,0,0,0,0
+Aliihoeflea aestuarii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,0
+Brevundimonas diminuta::Brevundimonas sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0
+Rhodomicrobium sp,0,0,0,0,0,0,0,0,0,6,0,32,0,0,0,0,0,0,0,0,0,0,0
+Oscillatoria sp,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Paracoccus sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62,3
+Aliihoeflea aestuarii::Paracoccus sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,143,0
+Bradyrhizobium elkanii::Bradyrhizobium sp,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0
+Agrobacterium sp,0,0,0,0,0,0,0,0,3,0,2,0,90,14,0,0,0,0,0,0,0,0,0
+Methylobacterium sp,33,1,0,0,0,0,0,0,0,4,6,0,0,0,0,0,0,0,0,0,0,0,0
+Brevundimonas sp::Mycoplana sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0
+Devosia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,14
+Prosthecomicrobium sp,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,2
+Streptococcus mitis::Streptococcus sp,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ochrobactrum sp,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1
+Brevundimonas vesicularis::Brevundimonas sp::Brevundimonas nasdae,0,0,0,0,0,0,0,0,0,0,2,7,0,0,0,0,0,0,0,0,0,2,0
+Methylobacterium podarium::Methylobacterium sp,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Devosia riboflavina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+Serratia liquefaciens::Serratia sp::Serratia proteamaculans,0,0,0,0,0,0,0,1,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0
+Rhizobium etli,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ochrobactrum pseudogrignonense,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Rhizobium etli::Rhizobium sp,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rhizobium leguminosarum,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,1
+Serratia fonticola::Serratia sp,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas resinovorans,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Enterobacter asburiae::Enterobacter sp::Klebsiella sp,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stenotrophomonas maltophilia::Stenotrophomonas sp::Vibrio sp::Pseudomonas sp,0,0,0,0,0,0,3,0,0,148,0,134,0,0,0,0,0,0,0,0,0,0,0
+Serratia liquefaciens::Serratia proteamaculans::Serratia sp::Pseudomonas sp,0,0,5,0,0,0,0,69,3,0,35,0,0,64,99,0,0,0,0,0,0,0,0
+Rahnella aquatilis::Rahnella sp,0,0,0,0,0,0,0,0,0,6,10,0,0,0,0,0,377,0,0,0,0,0,0
+Stenotrophomonas maltophilia::Stenotrophomonas sp::Pseudomonas sp,0,0,0,0,0,0,0,0,0,60,0,22,0,0,0,0,0,0,0,0,0,0,0
+Vibrio sp::Stenotrophomonas sp,0,0,0,0,0,0,1,0,0,61,0,40,0,0,0,0,0,0,0,0,0,0,0
+Enterobacter aerogenes::Klebsiella sp::Enterobacter sp,0,0,0,0,0,22,1,0,0,5,1,0,0,0,0,0,0,0,0,38,0,0,0
+Flavobacterium sp,3589,2,0,0,0,0,0,0,13,0,9,24,0,0,0,0,0,0,1,6,0,0,1036
+Pseudomonas gessardii,0,0,0,2,0,21,2,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Clostridium sp,0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Kluyvera georgiana::Kluyvera cryocrescens::Pantoea sp::Enterobacter ludwigii::Enterobacter sp,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stenotrophomonas maltophilia::Stenotrophomonas sp::Vibrio sp,0,0,0,0,0,0,0,0,0,7,0,1,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas synxantha::Pseudomonas veronii,0,0,2,2,0,13,10,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Burkholderia cepacia::Burkholderia ambifaria,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0
+Aeromonas caviae::Aeromonas hydrophila::Aeromonas sp::Aeromonas jandaei::Aeromonas punctata,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas gessardii::Pseudomonas migulae,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Buttiauxella sp::Pantoea sp,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0
+Lyngbya aestuarii,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rahnella aquatilis,0,0,0,0,0,0,0,0,0,4,2,1,0,0,0,0,121,0,0,0,0,0,0
+Brevundimonas terrae,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Pseudomonas stutzeri::Pseudomonas sp,0,0,63,140,1,4,169,0,14,4,0,0,460,0,0,0,0,0,150,0,0,0,148
+Burkholderia sordidicola::Burkholderia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,2,0,0,0,0,0,0
+Mesorhizobium loti,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0
+Kluyvera ascorbata::Pantoea sp::Enterobacter ludwigii,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Variovorax paradoxus::Variovorax sp,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Enterobacter asburiae::Klebsiella sp::Enterobacter sp::Enterobacter amnigenus,0,0,0,0,0,5,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Serratia odorifera::Pectobacterium carotovorum,0,0,1,0,0,0,0,0,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kluyvera georgiana::Kluyvera cryocrescens::Enterobacter sp,0,0,0,0,0,9,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Tetrathiobacter mimigardefordensis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+Planktothrix agardhii,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Serratia liquefaciens::Serratia proteamaculans::Rahnella sp,0,0,14,0,0,0,1,31,16,1,47,0,0,116,60,0,0,0,0,0,0,0,0
+Kluyvera ascorbata::Kluyvera georgiana::Kluyvera cryocrescens::Pantoea sp::Enterobacter ludwigii,0,0,0,0,0,7,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+Dyella soli,0,0,0,0,0,0,0,0,0,0,0,0,2,6,0,0,0,0,0,0,0,0,0
+Burkholderia xenovorans::Burkholderia phytofirmans,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Aeromonas caviae::Aeromonas hydrophila::Aeromonas sp::Aeromonas jandaei,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pantoea sp::Enterobacter sp,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas graminis::Pseudomonas sp::Pseudomonas putida,0,0,0,19,0,1,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkholderia phytofirmans::Burkholderia sp::Burkholderia ubonensis,0,0,0,0,0,0,0,0,0,0,0,0,2,5,0,0,0,0,0,0,0,0,0
+Stenotrophomonas maltophilia::Vibrio sp,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas poae,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Candidatus Burkholderia verschuerenii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+Raoultella planticola,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Serratia fonticola::Rahnella sp::Serratia sp,0,0,0,3,0,3,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stenotrophomonas rhizophila::Stenotrophomonas sp,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas anguilliseptica::Pseudomonas sp,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pleurocapsa sp,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkholderia caryophylli::Burkholderia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+Pseudomonas graminis::Pseudomonas sp,0,0,0,83,0,3,123,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Streptomyces sp,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tetrathiobacter mimigardefordensis::Alcaligenes sp,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+Enterobacter cancerogenus::Enterobacter sp::Klebsiella pneumoniae,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Planktothrix sp,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Dyella yeojuensis,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Enterobacter hormaechei,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Escherichia sp,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0
+Yersinia rohdei::Aeromonas sp::Yersinia sp::Yersinia kristensenii,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pectobacterium atrosepticum,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Microcella putealis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1
+Rivularia sp,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1
+Lysobacter sp,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+Delftia acidovorans,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nostoc sp,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Leptolyngbya frigida::Planktothrix agardhii,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agrobacterium albertimagni::Rhizobium sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0
+Anabaena augstumalis::Fischerella sp::Anabaena sp::Anabaena cylindrica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Enterobacter asburiae::Enterobacter sp,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Klebsiella pneumoniae::Klebsiella sp::Enterobacter aerogenes::Enterobacter sp,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0
+Prochlorococcus marinus::Prochlorococcus sp,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plectonema sp,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Duganella zoogloeoides::Duganella sp::Zoogloea sp,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stenotrophomonas humi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Leptolyngbya frigida::Synechococcus sp::Planktothrix agardhii,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Planktothrix agardhii::Synechococcus sp,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leptolyngbya frigida::Synechococcus sp,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Janthinobacterium lividum::Janthinobacterium sp,0,0,0,0,0,2,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkholderia fungorum,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,4,0,0,0,0,0,0
+Achromobacter piechaudii::Achromobacter xylosoxidans,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Serratia liquefaciens::Pseudomonas sp::Serratia sp,0,0,0,0,0,0,0,7,7,0,3,0,0,12,23,0,0,0,0,0,0,0,0
+Malikia sp::Lysobacter sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+Planktothrix pseudagardhii,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,1
+Brevundimonas sp,111,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2
+Burkholderia anthina::Burkholderia cenocepacia,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Pseudomonas synxantha::Pseudomonas sp,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bradyrhizobium japonicum::Bradyrhizobium sp,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas synxantha::Pseudomonas veronii::Pseudomonas sp,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkholderia cenocepacia::Burkholderia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Phyllobacterium sp,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,5
+Serratia liquefaciens::Massilia sp::Pseudomonas sp::Serratia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Pseudomonas antarctica::Pseudomonas sp::Pseudomonas synxantha,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bacillus sp,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rickettsiella sp,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Staphylococcus sp,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0
+Paenibacillus borealis,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Algoriphagus ornithinivorans,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+Prevotella sp,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0
+Paenibacillus borealis::Paenibacillus sp,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas mandelii,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas frederiksbergensis::Pseudomonas sp::Pseudomonas mandelii,0,0,1,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Methylophilus methylotrophus,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Simonsiella muelleri,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Algoriphagus sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1537
+Cohnella sp,0,0,0,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ralstonia sp,0,0,4,0,0,0,0,0,8,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+Collimonas sp,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paenibacillus chondroitinus,0,0,30,11,20,0,51,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mucilaginibacter sp,0,0,2,0,0,0,0,10,5,0,4,0,0,0,0,0,173,0,0,0,0,0,0
+Pseudomonas stutzeri,0,0,2,7,0,0,4,0,0,0,0,0,25,0,0,0,0,0,21,0,0,0,1
+Pseudomonas mandelii::Pseudomonas sp,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas putida::Pseudomonas sp::Pseudomonas fluorescens,0,0,2,1,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pedobacter heparinus::Pedobacter sp,0,0,3,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Escherichia coli::Shigella sp,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Dyella ginsengisoli::Rhodanobacter terrae,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,13,0,0,0,0,0,0
+Flexibacter sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+Halomonas sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+Pseudomonas viridiflava::Pseudomonas sp,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sphingoterrabacterium pocheensis::Mucilaginibacter sp,0,0,1,0,0,0,0,13,14,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Chitinophaga sp,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+Streptococcus salivarius::Streptococcus sp,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Herminiimonas saxobsidens,0,0,0,4,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ruminococcus sp,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0
+Eubacterium coprostanoligenes,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas vancouverensis::Pseudomonas sp,0,0,4,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,2,0,0,0,0
+Eubacterium coprostanoligenes::Ruminococcus flavefaciens,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0
+Cytophagales sp Bacteroidetes,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas lurida,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas lurida::Pseudomonas sp,0,0,0,0,0,0,1,0,1,0,16,0,0,0,0,0,0,0,0,0,0,0,0
+Sphingobium sp,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Erwinia persicina::Klebsiella sp,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas pavonaceae,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Malikia spinosa,0,0,0,146,0,0,274,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas plecoglossicida::Pseudomonas sp,0,0,0,11,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hydrocarboniphaga sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+Eubacterium saburreum::Eubacterium sp,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas poae::Pseudomonas sp::Pseudomonas marginalis,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas tolaasii::Pseudomonas sp::Pseudomonas corrugata,0,0,6,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas fluorescens::Pseudomonas lutea::Pseudomonas sp,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,179,0,0,0,0
+Pseudomonas plecoglossicida::Pseudomonas sp::Pseudomonas putida,0,0,0,35,0,0,37,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas plecoglossicida,0,0,2,13,9,0,16,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas moorei,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sphingoterrabacterium pocheensis,0,0,0,0,0,0,0,3,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Staphylococcus epidermidis::Staphylococcus sp,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Malikia granosa,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas fluorescens::Pseudomonas brenneri,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas putida::Pseudomonas plecoglossicida::Pseudomonas sp,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas fluorescens::Pseudomonas chlororaphis::Pseudomonas sp,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Curvibacter lanceolatus,0,0,0,10,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas tolaasii::Pseudomonas corrugata,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas entomophila::Pseudomonas putida,0,0,20,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paenibacillus castaneae,0,0,0,2,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas plecoglossicida::Pseudomonas putida::Pseudomonas sp,0,0,0,8,0,0,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas fluorescens::Pseudomonas sp::Pseudomonas brenneri,0,0,0,0,0,0,0,35,1,0,2,1,0,0,0,0,0,0,0,0,0,0,0
+Halomonas venusta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65
+Pseudomonas migulae::Pseudomonas sp,0,0,17,37,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anaerotruncus colihominis,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+Ethanoligenens sp,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Acinetobacter sp,0,0,0,2,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pedobacter heparinus,0,0,0,0,0,0,0,6,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas mandelii::Pseudomonas sp::Pseudomonas syringae::Pseudomonas avellanae,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas congelans::Pseudomonas sp::Pseudomonas tremae::Pseudomonas syringae,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Erwinia billingiae,0,0,0,25,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas sp::Burkholderia sp,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas lutea::Pseudomonas sp::Pseudomonas fluorescens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0
+Pseudomonas putida::Pseudomonas fluorescens::Pseudomonas sp,0,0,0,0,5,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas filiscindens::Pseudomonas sp,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Erwinia billingiae::Klebsiella sp,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas fluorescens::Pseudomonas sp::Pseudomonas fulva,0,0,1,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+Pseudomonas koreensis::Pseudomonas sp::Pseudomonas fluorescens,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Coprococcus sp,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0
+Dyella soli::Dyella sp::Dyella koreensis,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas putida::Pseudomonas fluorescens,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas koreensis::Pseudomonas sp,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas fulva::Pseudomonas fluorescens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Caminicella sp,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Clostridium aminophilum,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+Duganella zoogloeoides::Janthinobacterium sp,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cronobacter sakazakii::Pantoea sp,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tepidimonas arfidensis,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas trivialis::Pseudomonas sp::Pseudomonas tolaasii,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rhodococcus erythropolis::Rhodococcus erythreus,0,0,0,0,0,0,0,0,39,0,10,0,0,0,0,0,0,0,0,0,0,0,0
+Eubacterium sp,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Phascolarctobacterium sp,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Serratia marcescens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,291,0,0,0,0
+Arthrobacter nicotinovorans::Arthrobacter sp,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas putida::Pseudomonas sp::Pseudomonas stutzeri,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas fluorescens::Pseudomonas stutzeri,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Erwinia amylovora::Serratia proteamaculans,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Rhodococcus sp,0,0,0,0,0,0,0,0,5,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+Eggerthella lenta::Ruminococcus gnavus,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0
+Parabacteroides sp,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0
+Shinella zoogloeoides::Agrobacterium sp::Hoeflea alexandrii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+Bartonella elizabethae,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+Serratia marcescens::Serratia sp::Pseudomonas sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+Dietzia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+Symphyonema sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Serratia plymuthica::Serratia sp::Rahnella sp,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas fluorescens::Serratia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+Cedecea neteri,0,0,1,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Serratia plymuthica::Serratia liquefaciens::Rahnella sp,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Serratia marcescens::Pseudomonas sp::Serratia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Enterobacter amnigenus::Enterobacter sp,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas fluorescens::Pseudomonas sp::Pseudomonas lutea,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Cyanothece sp::Aphanocapsa sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Anabaena cylindrica::Fischerella sp::Nostochopsis lobatus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Hoeflea alexandrii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+Cronobacter sakazakii::Rahnella sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Cupriavidus sp,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Serratia sp::Rahnella sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Pseudomonas putida::Pseudomonas fluorescens::Pseudomonas stutzeri::Pseudomonas sp,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Buttiauxella agrestis::Pantoea sp::Buttiauxella noackiae,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Serratia grimesii,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dolichospermum circinale::Aphanocapsa sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Anabaena sp::Aphanocapsa sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Tolypothrix sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Pseudomonas fulva::Pseudomonas sp,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Erwinia sp,0,0,0,5,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Devosia crocina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27
+Pseudomonas lutea,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0
+Herbaspirillum huttiense,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+Serratia odorifera,0,0,2,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Oscillospira sp,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Erythrobacter piscidermidis::Erythrobacter citreus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Erythrobacter piscidermidis::Erythrobacter sp::Erythrobacter citreus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Hoeflea sp::Rhodococcus sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+Rhizobium sp::Mesorhizobium sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+Caulobacter sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Sphingomonas sp,28,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,598,0,0,0
+Sphingobium xenophagum::Sphingomonas sp,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Agrobacterium rhizogenes,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Methylobacterium organophilum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Labrys methylaminiphilus::Labrys sp,0,0,0,0,0,0,0,4,42,0,5,0,13,0,0,0,0,0,0,0,0,0,0
+Shinella zoogloeoides::Agrobacterium sp::Aminobacter sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31
+Shinella zoogloeoides::Agrobacterium sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Mesorhizobium sp,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,46
+Shinella zoogloeoides::Aminobacter sp::Hoeflea alexandrii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+Aminobacter sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+Aminobacter ciceronei::Aminobacter sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Hoeflea sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+Agrobacterium tumefaciens,0,0,0,2,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rhizobium sp::Paracoccus sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+Brucella canis::Brucella abortus::Brucella suis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Brucella canis::Brucella abortus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Ochrobactrum tritici::Ochrobactrum sp,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agrobacterium tumefaciens::Agrobacterium sp::Rhizobium sp,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas fulva::Pseudomonas sp::Pseudomonas fluorescens,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agrobacterium tumefaciens::Agrobacterium sp,0,0,0,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rahnella sp::Serratia sp,0,0,0,2,0,0,5,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+Nitratireductor sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Brevundimonas nasdae::Brevundimonas sp,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0
+Klebsiella pneumoniae,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0
+Hyphomonas sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+Aminobacter ciceronei,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Chromobacterium violaceum::Chromobacterium sp,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Sphingobium xenophagum,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas fluorescens::Serratia marcescens::Serratia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0
+Gemmatimonas sp,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hyphomonas polymorpha::Hyphomonas rosenbergii::Hyphomonas sp::Hyphomonas neptunium,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Hyphomonas polymorpha::Hyphomonas rosenbergii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+Hyphomonas polymorpha::Hyphomonas rosenbergii::Hyphomonas sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Peptoniphilus asaccharolyticus,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas gingeri,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Merismopedia tenuissima,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Pseudomonas poae::Pseudomonas sp,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas fluorescens::Pseudomonas sp::Pseudomonas stutzeri,0,0,2,4,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pectobacterium carotovorum::Buttiauxella sp::Pantoea sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Merismopedia tenuissima::Merismopedia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+Symploca sp,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4301,0,1
+Pseudomonas entomophila::Pseudomonas sp,0,0,7,0,1,0,0,0,3,0,0,0,7,0,0,0,0,0,0,0,0,0,0
+Pseudomonas antarctica::Pseudomonas trivialis::Pseudomonas sp,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paenibacillus castaneae::Paenibacillus sp,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas rhizosphaerae::Pseudomonas sp,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0
+Nitratireductor basaltis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Pantoea agglomerans,0,0,0,0,2,0,0,0,3,0,4,0,0,0,0,0,0,0,1,0,0,0,0
+Janthinobacterium sp::Pseudomonas sp,0,0,0,2,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microbacterium oxydans::Microbacterium sp,20,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas stutzeri::Pseudomonas sp::Pseudomonas lutea,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cronobacter malonaticus,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Xylophilus ampelinus,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aquaspirillum arcticum,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dickeya chrysanthemi,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0
+Enterobacter asburiae::Klebsiella sp::Enterobacter sp,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas fluorescens::Serratia marcescens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0
+Kluyvera ascorbata,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Bacillus subtilis::Herbaspirillum frisingense::Herbaspirillum sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Eubacterium desmolans,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Serratia odorifera::Serratia fonticola::Serratia sp,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Herbaspirillum sp::Pseudomonas sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Aquamicrobium sp::Mesorhizobium sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Pseudomonas stutzeri::Pseudomonas graminis::Pseudomonas lutea::Pseudomonas sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Dermabacter sp,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0
+Oscillatoria spongeliae,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Serratia marcescens::Enterobacter sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Alcaligenes sp::Achromobacter sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Coprobacillus sp,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Corynebacterium urealyticum::Corynebacterium sp,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas fluorescens::Serratia sp::Serratia marcescens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Corynebacterium tuberculostearicum,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Curvibacter gracilis::Curvibacter lanceolatus::Curvibacter sp,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aranicola sp::Rahnella sp,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Mesorhizobium chacoense,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Anabaena augstumalis::Anabaena sp::Anabaena cylindrica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+Escherichia coli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Pseudoalteromonas sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Pseudomonas luteola,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Serratia grimesii::Massilia sp::Serratia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Pseudomonas marginalis::Pseudomonas sp::Pseudomonas poae,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Serratia liquefaciens::Serratia proteamaculans::Serratia sp::Massilia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Cylindrospermum stagnale::Rivularia sp::Rivularia atra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Buttiauxella noackiae::Buttiauxella ferragutiae::Buttiauxella agrestis::Buttiauxella brennerae,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chroococcus cf membraninus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+Planktothrix agardhii::Planktothrix pseudagardhii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Pseudomonas koreensis::Pseudomonas stutzeri::Pseudomonas sp,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Serratia liquefaciens::Serratia sp::Serratia proteamaculans::Pseudomonas sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Bartonella elizabethae::Devosia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Klebsiella pneumoniae::Klebsiella sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Pseudomonas fulva,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Alcaligenes faecalis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Serratia liquefaciens::Serratia proteamaculans::Serratia sp::Massilia sp::Pseudomonas sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Pseudomonas congelans::Pseudomonas sp,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Serratia liquefaciens::Pseudomonas sp::Serratia sp::Serratia proteamaculans,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Pseudomonas lutea::Pseudomonas sp::Pseudomonas stutzeri,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Herbaspirillum huttiense::Herbaspirillum sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Herminiimonas sp,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Flavobacterium columnare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Pantoea sp::Buttiauxella sp,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas putida::Pseudomonas sp::Pseudomonas graminis,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Flavobacterium xanthum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Staphylococcus pettenkoferi,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rhodanobacter terrae,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0
+Bacillus jeotgali::Bacillus sp,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chroococcus minutus::Chroococcus sp,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hydrogenophaga atypica::Hydrogenophaga sp,504,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paenibacillus tylopili::Paenibacillus sp::Paenibacillus tundrae,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dokdonella fugitiva,0,0,0,0,0,0,0,0,0,0,0,0,74,0,0,0,0,0,0,0,0,0,0
+Hydrogenophaga taeniospiralis,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nodularia spumigena,517,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dyella ginsengisoli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,130,0,0,0,0,0,0
+Burkholderia caryophylli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Paenibacillus pabuli,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hydrogenophaga atypica,231,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hydrogenophaga sp,256,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bacillus boroniphilus::Bacillus sp,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bacillus jeotgali,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas rhodesiae::Pseudomonas sp,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pedobacter kwangyangensis::Pedobacter sp,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paenibacillus tylopili,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas putida::Pseudomonas pseudoalcaligenes::Pseudomonas entomophila,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Pedobacter kwangyangensis,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mucilaginibacter rigui,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sphingoterrabacterium sp,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0
+Pseudomonas putida::Pseudomonas entomophila::Pseudomonas sp,0,0,0,0,0,0,0,0,1,0,0,0,378,0,0,0,0,0,0,0,0,0,0
+Burkholderia fungorum::Burkholderia sp::Burkholderia phytofirmans,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Pseudomonas agarici,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Haemophilus sp,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas entomophila,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Pseudomonas putida::Pseudomonas sp::Pseudomonas entomophila,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Streptococcus cristatus,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microbacterium oxydans::Microbacterium maritypicum::Microbacterium sp,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas stutzeri::Pseudomonas sp::Pseudomonas fluorescens,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Nodularia spumigena::Anabaena sp,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dyella japonica::Dyella sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Pseudomonas entomophila::Pseudomonas putida::Pseudomonas sp,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Pandoraea sp,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Chlorogloeopsis sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+Corynebacterium genitalium,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas pseudoalcaligenes,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Rivularia sp::Calothrix sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Microbacterium sp,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aphanizomenon gracile,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+Novosphingobium capsulatum,3066,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chroococcus minutus::Chroococcus sp::Cyanothece sp,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Buttiauxella noackiae::Pantoea sp,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leifsonia xyli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Dolichospermum lemmermanii::Anabaena sp,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Burkholderia sartisoli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Collimonas fungivorans,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rhodococcus erythropolis::Rhodococcus sp,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Symploca sp::Anabaena sp,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aphanizomenon ovalisporum::Anabaena sp,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rhodococcus baikonurensis,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anabaena oscillarioides,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trichormus azollae::Symploca sp,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trichormus azollae::Anabaena sp,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nostoc piscinale::Nodularia spumigena,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nodularia harveyana,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trichormus azollae::Anabaena sp::Symploca sp,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pedobacter sp::Flavobacterium sp,272,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aranicola proteolyticus::Serratia sp,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trichormus azollae,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nodularia sphaerocarpa::Nodularia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Chroococcus sp,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cyanobium sp,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phormidium priestleyi,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudonocardia antarctica::Pseudonocardia sp::Pseudonocardia carboxydivorans,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Propionibacterium acnes,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pedobacter kwangyangensis::Flavobacterium sp,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Novosphingobium subterraneum::Novosphingobium sp::Sphingomonas sp,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rhodopseudomonas sp,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0
+Flavobacterium sp::Pedobacter sp,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rhodopseudomonas palustris::Rhodopseudomonas sp,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+Novosphingobium subterraneum::Sphingomonas sp::Novosphingobium aromaticivorans,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Methylobacterium radiotolerans,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Novosphingobium subterraneum::Novosphingobium sp::Novosphingobium aromaticivorans,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ochrobactrum lupini::Ochrobactrum sp,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Novosphingobium capsulatum::Novosphingobium subterraneum::Sphingomonas sp::Novosphingobium aromaticivorans,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Novosphingobium taihuense,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Novosphingobium capsulatum::Sphingomonas sp,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Microbacterium oxydans,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aurantimonas sp,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ochrobactrum anthropi::Ochrobactrum sp::Ochrobactrum tritici::Ochrobactrum lupini,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Novosphingobium subterraneum::Novosphingobium aromaticivorans,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ochrobactrum tritici,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas putida::Pseudomonas entomophila,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+Bosea sp,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rhizobium tropici,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+Ochrobactrum anthropi::Ochrobactrum sp::Ochrobactrum tritici,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agrobacterium rubi,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Pseudomonas entomophila::Pseudomonas sp::Pseudomonas putida,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Pectobacterium carotovorum::Klebsiella sp,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rhizobium leguminosarum::Rhizobium tropici::Rhizobium sp,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Defluvibacter sp,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Ewingella americana::Rahnella aquatilis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0
+Ewingella americana::Rahnella sp::Rahnella aquatilis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0
+Pseudomonas xanthomarina::Pseudomonas sp,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Pseudomonas graminis::Pseudomonas sp::Pseudomonas stutzeri,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Ewingella americana::Rahnella sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0
+Corynebacterium sp,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Novosphingobium capsulatum::Novosphingobium subterraneum::Novosphingobium aromaticivorans,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas putida::Pseudomonas sp::Pseudomonas fuscovaginae,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Buttiauxella agrestis::Buttiauxella brennerae::Buttiauxella noackiae::Pantoea sp::Buttiauxella sp,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Novosphingobium capsulatum::Novosphingobium subterraneum::Sphingomonas sp,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leifsonia xyli::Leifsonia aquatica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0
+Pseudomonas putida::Pseudomonas fuscovaginae::Pseudomonas sp,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Prochloron sp,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas plecoglossicida::Pseudomonas stutzeri::Pseudomonas sp,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Serratia liquefaciens::Serratia plymuthica,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Novosphingobium subterraneum::Novosphingobium capsulatum::Sphingomonas sp::Novosphingobium aromaticivorans,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tiedjeia arctica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Burkholderia pyrrocinia::Burkholderia sp,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Burkholderia ambifaria::Burkholderia cepacia,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Burkholderia ubonensis::Burkholderia sp,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Limnococcus limneticus,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cylindrospermum stagnale,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Flavobacterium kamogawaensis,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Novosphingobium subterraneum::Novosphingobium capsulatum::Novosphingobium aromaticivorans,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Serratia odorifera::Pectobacterium carotovorum::Pectobacterium atrosepticum,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Novosphingobium hassiacum::Sphingomonas sp,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Acaryochloris sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+Sinorhizobium sp,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Novosphingobium taihuense::Sphingomonas sp,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anabaena oscillarioides::Anabaena sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Pedobacter sp::Sphingoterrabacterium sp,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas trivialis::Pseudomonas sp::Pseudomonas chlororaphis,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Planktothrix mougeotii,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Acidiphilium sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0
+Dolichospermum lemmermanii::Aphanizomenon cf flos-aquae::Dolichospermum flos-aquae::Dolichospermum lemmermannii::Dolichospermum circinale,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sinorhizobium meliloti,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Flavobacterium sp::Pseudomonas sp,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stenotrophomonas maltophilia::Xanthomonas sp::Stenotrophomonas sp,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Alistipes putredinis,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burkholderia sediminicola,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,21,0,0,0,0,0,0,0
+Parabacteroides distasonis,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas fluorescens::Pseudomonas sp::Pseudomonas teessidea,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas fluorescens::Pseudomonas brenneri::Pseudomonas sp,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas poae::Pseudomonas trivialis::Pseudomonas sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Pseudomonas graminis::Pseudomonas putida,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas graminis,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dolosigranulum sp,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas jessenii::Pseudomonas sp,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Acidisoma tundrae,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1082,0,0,0
+Yersinia kristensenii,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lactobacillus johnsonii::Lactobacillus sp,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Raoultella ornithinolytica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Novosphingobium sp::Sphingomonas sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0
+Brevundimonas vesicularis::Brevundimonas sp,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+Reyranella massiliensis,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+Enterobacter aerogenes::Raoultella ornithinolytica::Klebsiella sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Burkholderia sediminicola::Burkholderia sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0
+Erwinia billingiae::Erwinia sp,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pseudomonas aeruginosa,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rahnella sp::Enterobacter sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Cronobacter sakazakii::Cronobacter malonaticus,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Duganella zoogloeoides::Janthinobacterium sp::Duganella sp,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Novosphingobium sp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0
+Klebsiella pneumoniae::Klebsiella sp::Raoultella ornithinolytica,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Pseudomonas luteola::Pseudomonas sp,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
