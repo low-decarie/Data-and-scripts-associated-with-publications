@@ -15,14 +15,15 @@ count_data_ordered <- arrange(count_data_by,-value)
 count_data <- mutate(count_data_ordered, index=order(-value),
                      cum_sum=cumsum(value))
 
-count_data$treatment[count_data$treatment==0.05] <- "Benign\n(0.05 g/L Dalapon)"
-count_data$treatment[count_data$treatment==0.65] <- "Lethal\n(0.65 g/L Dalapon)"
-count_data$treatment[count_data$treatment=="Source community"] <- "Source community"
+# count_data$treatment[count_data$treatment==0.05] <- "Benign\n(0.05 g/L Dalapon)"
+# count_data$treatment[count_data$treatment==0.65] <- "Lethal\n(0.65 g/L Dalapon)"
+# count_data$treatment[count_data$treatment=="Source community"] <- "Source community"
 count_data$assay[count_data$assay=="28F"] <- "Bacteria"
 count_data$assay[count_data$assay=="SSU"] <- "Fungi"
 
 count_data$treatment <- as.factor(count_data$treatment)
 count_data$treatment <- factor(count_data$treatment,  levels(count_data$treatment)[c(3,1,2)])
+
 
 p <- qplot(data=count_data,
            x=index,
@@ -58,6 +59,35 @@ p <- species_accumulation(ylab="Number of sequences")
 load("./Outputs/Metagenomics/reprocessed_sequences_frequency.Rdata")
 count_data <- otu[otu$value>0,]
 p <- species_accumulation(ylab="Frequency")
+
+count_data_grouped <- group_by(count_data, Sample_number, Sample_name, assay)
+
+summarized_by_sample <- summarise(count_data_grouped,otu_count=sum(value>0))
+summarized_by_sample_grouped <- group_by(summarized_by_sample, Sample_name, assay)
+summarized_by_treatment <- summarise(summarized_by_sample_grouped,otu_count=mean(otu_count))
+summarized_by_treatment_grouped <- group_by(summarized_by_treatment, assay)
+summarized_by_assay <- summarise(summarized_by_treatment_grouped[grepl("Soil", summarized_by_treatment_grouped$Sample_name),],otu_count_mean=mean(otu_count), otu_count_SD=sd(otu_count), min=smean.cl.boot(otu_count)[2], max=smean.cl.boot(otu_count)[3])
+
+as.data.frame(summarized_by_assay)
+
+
+
+count_data_grouped <- group_by(count_data, Sample_number, Sample_name, treatment)
+
+summarized_by_sample <- summarise(count_data_grouped,otu_count=sum(value>0))
+
+mean(summarized_by_sample$otu_count[summarized_by_sample$treatment=="High Dalapon (0.65 g/L)"])
+
+summarized_by_sample_grouped <- group_by(summarized_by_sample, Sample_name)
+summarized_by_treatment <- summarise(summarized_by_sample_grouped,otu_count=mean(otu_count))
+summarized_by_treatment_grouped <- summarized_by_treatment
+summarized_by_assay <- summarise(summarized_by_treatment_grouped[grepl("Soil", summarized_by_treatment_grouped$Sample_name),],otu_count_mean=mean(otu_count), otu_count_SD=sd(otu_count), min=smean.cl.boot(otu_count)[2], max=smean.cl.boot(otu_count)[3])
+as.data.frame(summarized_by_assay)
+as.data.frame(summarized_by_assay)
+
+
+
+
 
 
 
