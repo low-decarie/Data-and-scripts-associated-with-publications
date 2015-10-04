@@ -15,7 +15,7 @@ load("./Outputs/phase 1 robot OD data.RData")
 
 
 
-pdf("./Plots/For presentation/slope of landscape occupancy bar plots.pdf", width=5,
+pdf("./Plots/slope of landscape occupancy bar plots.pdf", width=5,
     height=5)
 
 robo.data <- na.omit(robo.data)

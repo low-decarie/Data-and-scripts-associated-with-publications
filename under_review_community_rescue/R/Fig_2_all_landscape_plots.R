@@ -202,7 +202,7 @@ orange_rect <- ggplot()+geom_point(aes(1:5,1:5), colour="white") + coord_equal()
 
 graphics.off()
 
-pdf("./Plots/For presentation/all_landscapes_plot.pdf", width=12,height=10)
+pdf("./Plots/all_landscapes_plot.pdf", width=12,height=10)
 
 
 grid.arrange(p_start,p_end,p_assay,legend,orange_rect,ncol=3,heights=c(9/10,1/10))
