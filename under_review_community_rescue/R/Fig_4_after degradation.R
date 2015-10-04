@@ -36,7 +36,7 @@ counts.from.robo.data <- ddply(.data=robo.data,
 
 
 
-pdf("./Plots/occupancy of landscape occupancy bar plots.pdf", width=6,
+pdf("./Plots/For presentation/occupancy of landscape occupancy bar plots.pdf", width=6,
     height=5)
 
 counts.from.robo.data <- ddply(.variable=c("Dilution","Dispersal","dalapon_category",
