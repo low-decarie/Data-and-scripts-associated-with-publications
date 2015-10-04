@@ -1,0 +1,238 @@
+,X,OTU,Domain,Genus
+1,1,2, Eukaryota, Trichosporon
+2,2,3, Eukaryota, Trichoderma
+3,3,7, Eukaryota, Cryptococcus
+4,4,8, Bacteria, Pseudomonas
+5,5,9, Eukaryota, Umbelopsis
+6,6,10, Eukaryota, Penicillium
+7,7,12, Bacteria, Serratia
+8,8,16, Bacteria, Burkholderia
+9,9,17, Eukaryota, Cryptococcus
+10,10,18, Eukaryota,NA
+11,11,20, Bacteria, Pseudomonas
+12,12,23, Bacteria, Pseudomonas
+13,13,27, Bacteria, Dyella
+14,14,28, Bacteria, Pseudomonas
+15,15,32, Bacteria, Dyella
+16,16,35, Bacteria, Stenotrophomonas
+17,17,39, Bacteria, Duganella
+18,18,48, Bacteria, Yersinia
+19,19,54, Eukaryota, Cryptococcus
+20,20,56, Bacteria, Acidisoma
+21,21,71, Eukaryota, Mortierella
+22,22,74, Bacteria, Chryseobacterium
+23,23,77, Eukaryota, Umbelopsis
+24,24,81, Bacteria, Novosphingobium
+25,25,86, Bacteria, Burkholderia
+26,26,90, Bacteria,  Rhizobium
+27,27,91, Bacteria, Burkholderia
+28,28,94, Bacteria, Malikia
+29,29,97, Bacteria, Herbaspirillum
+30,30,105, Eukaryota, Trichosporon
+31,31,107, Bacteria, Delftia
+32,32,108, Bacteria, Chitinophaga
+33,33,116, Bacteria, Dyella
+34,34,123, Bacteria, Afipia
+35,35,124, Bacteria, Asaia
+36,36,129, Eukaryota, Trichosporon
+37,37,141, Eukaryota, Resinicium
+38,38,143, Bacteria, Mucilaginibacter
+39,39,146, Eukaryota, Mortierella
+40,40,156, Eukaryota,NA
+41,41,168, Bacteria, Paenibacillus
+42,42,170, Bacteria, Burkholderia
+43,43,171, Bacteria, Paenibacillus
+44,44,180, Bacteria, Achromobacter
+45,45,182, Bacteria, Burkholderia
+46,46,184, Eukaryota, Saccharomyces
+47,47,185,unassigned,NA
+48,48,186, Bacteria, Buttiauxella
+49,49,188, Bacteria, Burkholderia
+50,50,190, Bacteria, Dokdonella
+51,51,191, Bacteria, Herbaspirillum
+52,52,194, Eukaryota,NA
+53,53,198, Bacteria, Pedobacter
+54,54,200, Eukaryota, Cryptococcus
+55,55,206, Eukaryota,NA
+56,56,210, Bacteria, Burkholderia
+57,57,218, Bacteria,  Agrobacterium
+58,58,224, Bacteria, Labrys
+59,59,227, Eukaryota, Verticillium
+60,60,232, Bacteria, Propionibacterium
+61,61,239, Bacteria, Burkholderia
+62,62,240, Bacteria, Rhodococcus
+63,63,245, Bacteria, Mucilaginibacter
+64,64,247, Bacteria, Cupriavidus
+65,65,250, Bacteria, Flavobacterium
+66,66,251, Bacteria, Duganella
+67,67,254, Eukaryota,NA
+68,68,258, Bacteria, Curvibacter
+69,69,268, Bacteria, Pseudomonas
+70,70,270, Eukaryota, Mucor
+71,71,272, Eukaryota,NA
+72,72,276, Bacteria,NA
+73,73,284, Bacteria, Burkholderia
+74,74,298, Eukaryota, Umbelopsis
+75,75,299, Bacteria,NA
+76,76,306, Eukaryota, Cryptococcus
+77,77,309, Bacteria, Aeromonas
+78,78,316, Eukaryota,NA
+79,79,318, Bacteria, Burkholderia
+80,80,324, Bacteria, Dyella
+81,81,325, Bacteria, Burkholderia
+82,82,328, Eukaryota, Aspergillus
+83,83,330, Bacteria, Arenimonas
+84,84,332, Bacteria, Microbacterium
+85,85,336, Eukaryota,NA
+86,86,343, Eukaryota, Umbelopsis
+87,87,351, Bacteria, Pseudomonas
+88,88,354, Bacteria, Pseudomonas
+89,89,364, Bacteria,NA
+90,90,366, Bacteria, Variovorax
+91,91,368, Bacteria,NA
+92,92,375, Bacteria, Leifsonia
+93,93,378, Eukaryota, Asterotremella
+94,94,379, Bacteria, Streptococcus
+95,95,385, Bacteria, Achromobacter
+96,96,387, Bacteria, Paenibacillus
+97,97,388, Eukaryota,NA
+98,98,392, Bacteria, Serratia
+99,99,393, Eukaryota, Phytopythium delawarense
+100,100,399, Eukaryota, Trichoderma
+101,101,407, Eukaryota, Cryptococcus
+102,102,409, Eukaryota, Trichosporon
+103,103,412, Bacteria, Burkholderia
+104,104,428, Eukaryota, Peccania
+105,105,436, Bacteria, Burkholderia
+106,106,442, Eukaryota, Asterotremella
+107,107,443, Eukaryota, Trichoderma
+108,108,449, Eukaryota, Cryptococcus
+109,109,457, Bacteria, Rhodanobacter
+110,110,463, Bacteria, Brevundimonas
+111,111,468, Bacteria, Massilia
+112,112,471, Bacteria, Delftia
+113,113,480, Bacteria, Bacillus
+114,114,511, Bacteria, Pseudomonas
+115,115,515, Eukaryota, Cryptococcus
+116,116,517, Bacteria, Chryseobacterium
+117,117,518,unassigned,NA
+118,118,520, Bacteria, Comamonas
+119,119,538, Bacteria, Janthinobacterium
+120,120,541, Bacteria,NA
+121,121,542, Eukaryota, Trichosporon
+122,122,545,unassigned,NA
+123,123,550, Bacteria, Paenibacillus
+124,124,551, Bacteria, Pseudomonas
+125,125,556, Bacteria, Haemophilus
+126,126,561, Bacteria, Burkholderia
+127,127,565, Bacteria, Staphylococcus
+128,128,571,unassigned,NA
+129,129,574, Bacteria, Pseudomonas
+130,130,578, Eukaryota, Cryptococcus
+131,131,580, Eukaryota, Cryptococcus
+132,132,581, Bacteria, Collimonas
+133,133,585, Eukaryota, Trichoderma
+134,134,586, Bacteria, Burkholderia
+135,135,590, Bacteria, Pedobacter
+136,136,592, Bacteria, Acinetobacter
+137,137,593, Eukaryota, Trichoderma
+138,138,595, Bacteria, Paenibacillus
+139,139,598, Eukaryota, Cryptococcus
+140,140,599, Bacteria, Staphylococcus
+141,141,618, Bacteria, Lacibacter
+142,142,624, Bacteria, Pseudomonas
+143,143,633, Bacteria, Pseudomonas
+144,144,636, Bacteria, Leifsonia
+145,145,640, Eukaryota, Cryptococcus
+146,146,643, Eukaryota, Umbelopsis
+147,147,648, Bacteria, Pseudomonas
+148,148,650, Eukaryota, Trichoderma
+149,149,653, Bacteria, Paenibacillus
+150,150,657, Bacteria, Mucilaginibacter
+151,151,665, Bacteria, Rickettsiella
+152,152,671, Bacteria,NA
+153,153,681, Eukaryota, Umbelopsis
+154,154,690, Bacteria, Pseudomonas
+155,155,692, Eukaryota, Trichosporon
+156,156,697, Bacteria, Enterobacter
+157,157,698, Bacteria,NA
+158,158,700, Eukaryota, Trichoderma
+159,159,706, Eukaryota, Trichoderma
+160,160,711, Bacteria,NA
+161,161,720, Bacteria,NA
+162,162,721, Eukaryota, Penicillium
+163,163,723, Bacteria, Massilia
+164,164,736, Eukaryota, Pilaira
+165,165,742, Bacteria, Staphylococcus
+166,166,743, Eukaryota, Asterotremella
+167,167,744, Eukaryota, Trichosporon
+168,168,745, Bacteria,NA
+169,169,746, Bacteria,  Rhizobium
+170,170,750, Bacteria, Pseudomonas
+171,171,751, Eukaryota,NA
+172,172,767, Bacteria, Mesorhizobium
+173,173,770, Bacteria, Pseudomonas
+174,174,779, Bacteria,NA
+175,175,798, Bacteria, Burkholderia
+176,176,805, Eukaryota, Trichosporon
+177,177,810, Eukaryota, Asterotremella
+178,178,817, Bacteria,NA
+179,179,825, Bacteria, Serratia
+180,180,836, Eukaryota, Trichosporon
+181,181,838, Eukaryota, Trichoderma
+182,182,841, Bacteria, Pseudomonas
+183,183,850, Bacteria,NA
+184,184,852, Bacteria, Burkholderia
+185,185,854, Eukaryota, Mortierella
+186,186,861, Eukaryota,NA
+187,187,866, Eukaryota,NA
+188,188,867, Bacteria,NA
+189,189,869, Eukaryota, Umbelopsis
+190,190,873, Bacteria, Methylobacterium
+191,191,876,unassigned,NA
+192,192,879, Bacteria, Dyella
+193,193,882, Bacteria, Janthinobacterium
+194,194,895, Eukaryota, Cryptococcus
+195,195,897, Bacteria, Serratia
+196,196,898, Bacteria,NA
+197,197,910, Eukaryota, Umbelopsis
+198,198,919, Eukaryota, Penicillium
+199,199,925, Eukaryota,NA
+200,200,932, Eukaryota, Trichoderma
+201,201,934, Bacteria, Cohnella
+202,202,939, Eukaryota, Cryptococcus
+203,203,941, Bacteria,  Rhizobium
+204,204,947, Bacteria, Serratia
+205,205,950, Bacteria, Serratia
+206,206,955, Bacteria, Burkholderia
+207,207,958,unassigned,NA
+208,208,965,unassigned,NA
+209,209,970,unassigned,NA
+210,210,981, Bacteria, Pseudomonas
+211,211,992, Bacteria, Chitinophaga
+212,212,1006, Eukaryota,NA
+213,213,1022, Eukaryota, Umbelopsis
+214,214,1023, Eukaryota, Umbelopsis
+215,215,1026, Eukaryota, Trichosporon
+216,216,1030, Eukaryota, Cryptococcus
+217,217,1031, Eukaryota, Cryptococcus
+218,218,1056, Bacteria,NA
+219,219,1059, Eukaryota, Trichoderma
+220,220,1060, Eukaryota, Cryptococcus
+221,221,1064, Eukaryota, Trichosporon
+222,222,1067, Eukaryota, Cryptococcus
+223,223,1069, Bacteria,NA
+224,224,1079, Eukaryota,NA
+225,225,1080, Eukaryota, Asterotremella
+226,226,1082, Eukaryota, Umbelopsis
+227,227,1084, Eukaryota, Penicillium
+228,228,1086, Bacteria, Malikia
+229,229,1087, Bacteria, Sphingobium
+230,230,1092, Bacteria, Paenibacillus
+231,231,1122, Eukaryota, Mortierella
+232,232,1125, Eukaryota, Umbelopsis
+233,233,1127, Eukaryota, Asterotremella
+234,234,1128, Bacteria, Serratia
+235,235,1154, Eukaryota, Trichosporon
+236,236,1155, Bacteria, Pseudomonas
+237,237,1161, Bacteria, Burkholderia
