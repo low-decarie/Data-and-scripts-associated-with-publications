@@ -1,5 +1,6 @@
 load("./Outputs/Metagenomics/reprocessed_sequences_frequency.Rdata")
-load("./Outputs/Metagenomics/reprocessed_OTU_taxa.RData")
+#load("./Outputs/Metagenomics/reprocessed_OTU_taxa.RData")
+otu_taxa <- read.csv("./Data/Metagenomics/Re_processed_data/processed_OTU_taxa.csv")
 
 otu$treatment <- as.character(otu$treatment)
 otu$treatment[otu$treatment=="High Dalapon (0.65 g/L)"] <- "Lethal \n(0.65 g/L Dalapon)"

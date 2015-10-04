@@ -1,244 +1,238 @@
-"","X","OTU","ID","Domain","lineage_length","Phylum","Class","Order","Family","Genus","Species","Kingdom","Subkingdom","Division"
-"1",1,2,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; mitosporic Tremellales; Trichosporon"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Tremellales"," mitosporic Tremellales"," Trichosporon",NA," Fungi"," Dikarya"," Basidiomycota"
-"2",2,3,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Trichoderma"," Eukaryota",11," Ascomycota"," Sordariomycetes"," Hypocreales"," Hypocreaceae"," Trichoderma",NA," Fungi"," Dikarya"," Ascomycota"
-"3",3,7,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Filobasidiales; mitosporic Filobasidiales; Cryptococcus"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Filobasidiales"," mitosporic Filobasidiales"," Cryptococcus",NA," Fungi"," Dikarya"," Basidiomycota"
-"4",4,8,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Pseudomonadales"," Pseudomonadaceae"," Pseudomonas",NA,NA,NA,NA
-"5",5,9,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Fungi s; Early diverging fungal lineages; Early diverging fungal lineages; Mucoromycotina; Mucorales; Umbelopsidaceae; Umbelopsis"," Eukaryota",11," Early diverging fungal lineages"," Mucoromycotina"," Mucorales"," Umbelopsidaceae"," Umbelopsis",NA," Fungi"," Fungi s"," Early diverging fungal lineages"
-"6",6,10,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Aspergillaceae; Penicillium"," Eukaryota",11," Ascomycota"," Eurotiomycetes"," Eurotiales"," Aspergillaceae"," Penicillium",NA," Fungi"," Dikarya"," Ascomycota"
-"7",7,12,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Serratia; Serratia liquefaciens"," Bacteria",8," Proteobacteria"," Gammaproteobacteria"," Enterobacteriales"," Enterobacteriaceae"," Serratia"," Serratia liquefaciens",NA,NA,NA
-"8",8,16,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Burkholderiaceae"," Burkholderia",NA,NA,NA,NA
-"9",9,17,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; mitosporic Tremellales; Cryptococcus"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Tremellales"," mitosporic Tremellales"," Cryptococcus",NA," Fungi"," Dikarya"," Basidiomycota"
-"10",10,18,"cellular organisms; Eukaryota; Stramenopiles; Chrysophyceae; Chromulinales; Chromulinaceae; Spumella"," Eukaryota",7," Chromulinaceae",NA,NA,NA,NA,NA," Chrysophyceae"," Chromulinales"," Chromulinaceae"
-"11",11,20,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Pseudomonadales"," Pseudomonadaceae"," Pseudomonas",NA,NA,NA,NA
-"12",12,23,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Pseudomonadales"," Pseudomonadaceae"," Pseudomonas",NA,NA,NA,NA
-"13",13,27,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Dyella"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Xanthomonadales"," Xanthomonadaceae"," Dyella",NA,NA,NA,NA
-"14",14,28,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Pseudomonadales"," Pseudomonadaceae"," Pseudomonas",NA,NA,NA,NA
-"15",15,32,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Dyella; Dyella japonica "," Bacteria",8," Proteobacteria"," Gammaproteobacteria"," Xanthomonadales"," Xanthomonadaceae"," Dyella"," Dyella japonica ",NA,NA,NA
-"16",16,35,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Stenotrophomonas"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Xanthomonadales"," Xanthomonadaceae"," Stenotrophomonas",NA,NA,NA,NA
-"17",17,39,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Oxalobacteraceae; Duganella; Duganella zoogloeoides"," Bacteria",8," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Oxalobacteraceae"," Duganella"," Duganella zoogloeoides",NA,NA,NA
-"18",18,48,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Yersinia; Yersinia kristensenii "," Bacteria",8," Proteobacteria"," Gammaproteobacteria"," Enterobacteriales"," Enterobacteriaceae"," Yersinia"," Yersinia kristensenii ",NA,NA,NA
-"19",19,54,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Filobasidiales; mitosporic Filobasidiales; Cryptococcus"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Filobasidiales"," mitosporic Filobasidiales"," Cryptococcus",NA," Fungi"," Dikarya"," Basidiomycota"
-"20",20,56,"cellular organisms; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodospirillales; Acetobacteraceae; Acidisoma"," Bacteria",7," Proteobacteria"," Alphaproteobacteria"," Rhodospirillales"," Acetobacteraceae"," Acidisoma",NA,NA,NA,NA
-"21",21,71,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Fungi s; Fungi s; Zygomycota; Mortierellomycotina; Mortierellales; Mortierellaceae; Mortierella"," Eukaryota",11," Fungi s"," Mortierellomycotina"," Mortierellales"," Mortierellaceae"," Mortierella",NA," Fungi"," Fungi s"," Fungi s"
-"22",22,74,"cellular organisms; Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Chryseobacterium"," Bacteria",7," Bacteroidetes"," Flavobacteriia"," Flavobacteriales"," Flavobacteriaceae"," Chryseobacterium",NA,NA,NA,NA
-"23",23,77,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Fungi s; Early diverging fungal lineages; Early diverging fungal lineages; Mucoromycotina; Mucorales; Umbelopsidaceae; Umbelopsis"," Eukaryota",11," Early diverging fungal lineages"," Mucoromycotina"," Mucorales"," Umbelopsidaceae"," Umbelopsis",NA," Fungi"," Fungi s"," Early diverging fungal lineages"
-"24",24,81,"cellular organisms; Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Sphingomonadaceae; Novosphingobium"," Bacteria",7," Proteobacteria"," Alphaproteobacteria"," Sphingomonadales"," Sphingomonadaceae"," Novosphingobium",NA,NA,NA,NA
-"25",25,86,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Burkholderiaceae"," Burkholderia",NA,NA,NA,NA
-"26",26,90,"cellular organisms; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae;  Rhizobium"," Bacteria",7," Proteobacteria"," Alphaproteobacteria"," Rhizobiales"," Rhizobiaceae","  Rhizobium",NA,NA,NA,NA
-"27",27,91,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Burkholderiaceae"," Burkholderia",NA,NA,NA,NA
-"28",28,94,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Malikia; Malikia spinosa"," Bacteria",8," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Comamonadaceae"," Malikia"," Malikia spinosa",NA,NA,NA
-"29",29,97,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Oxalobacteraceae; Herbaspirillum"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Oxalobacteraceae"," Herbaspirillum",NA,NA,NA,NA
-"30",30,105,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; mitosporic Tremellales; Trichosporon"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Tremellales"," mitosporic Tremellales"," Trichosporon",NA," Fungi"," Dikarya"," Basidiomycota"
-"31",31,107,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Delftia"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Comamonadaceae"," Delftia",NA,NA,NA,NA
-"32",32,108,"cellular organisms; Bacteria; Bacteroidetes; Sphingobacteriia; Sphingobacteriales; Chitinophagaceae; Chitinophaga"," Bacteria",7," Bacteroidetes"," Sphingobacteriia"," Sphingobacteriales"," Chitinophagaceae"," Chitinophaga",NA,NA,NA,NA
-"33",33,116,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Dyella"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Xanthomonadales"," Xanthomonadaceae"," Dyella",NA,NA,NA,NA
-"34",34,123,"cellular organisms; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Bradyrhizobiaceae; Afipia"," Bacteria",7," Proteobacteria"," Alphaproteobacteria"," Rhizobiales"," Bradyrhizobiaceae"," Afipia",NA,NA,NA,NA
-"35",35,124,"cellular organisms; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodospirillales; Acetobacteraceae; Asaia"," Bacteria",7," Proteobacteria"," Alphaproteobacteria"," Rhodospirillales"," Acetobacteraceae"," Asaia",NA,NA,NA,NA
-"36",36,129,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; mitosporic Tremellales; Trichosporon"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Tremellales"," mitosporic Tremellales"," Trichosporon",NA," Fungi"," Dikarya"," Basidiomycota"
-"37",37,141,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Agaricomycetes; Hymenochaetales; Hymenochaetales s; Resinicium"," Eukaryota",11," Basidiomycota"," Agaricomycetes"," Hymenochaetales"," Hymenochaetales s"," Resinicium",NA," Fungi"," Dikarya"," Basidiomycota"
-"38",38,143,"cellular organisms; Bacteria; Bacteroidetes; Sphingobacteriia; Sphingobacteriales; Sphingobacteriaceae; Mucilaginibacter"," Bacteria",7," Bacteroidetes"," Sphingobacteriia"," Sphingobacteriales"," Sphingobacteriaceae"," Mucilaginibacter",NA,NA,NA,NA
-"39",39,146,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Fungi s; Fungi s; Zygomycota; Mortierellomycotina; Mortierellales; Mortierellaceae; Mortierella"," Eukaryota",11," Fungi s"," Mortierellomycotina"," Mortierellales"," Mortierellaceae"," Mortierella",NA," Fungi"," Fungi s"," Fungi s"
-"40",40,156,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Ustilaginomycotina; Malasseziomycetes; Malasseziales"," Eukaryota",9," Basidiomycota"," Malasseziomycetes"," Malasseziales",NA,NA,NA," Fungi"," Dikarya"," Basidiomycota"
-"41",41,168,"cellular organisms; Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae; Paenibacillus"," Bacteria",7," Firmicutes"," Bacilli"," Bacillales"," Paenibacillaceae"," Paenibacillus",NA,NA,NA,NA
-"42",42,170,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Burkholderiaceae"," Burkholderia",NA,NA,NA,NA
-"43",43,171,"cellular organisms; Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae; Paenibacillus"," Bacteria",7," Firmicutes"," Bacilli"," Bacillales"," Paenibacillaceae"," Paenibacillus",NA,NA,NA,NA
-"44",44,180,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Achromobacter"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Alcaligenaceae"," Achromobacter",NA,NA,NA,NA
-"45",45,182,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Burkholderiaceae"," Burkholderia",NA,NA,NA,NA
-"46",46,184,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; Saccharomycotina; Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces; Saccharomyces cerevisiae"," Eukaryota",12," Ascomycota"," Saccharomycetes"," Saccharomycetales"," Saccharomycetaceae"," Saccharomyces"," Saccharomyces cerevisiae"," Fungi"," Dikarya"," Ascomycota"
-"47",47,185,"","unassigned",0,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"48",48,186,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Buttiauxella"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Enterobacteriales"," Enterobacteriaceae"," Buttiauxella",NA,NA,NA,NA
-"49",49,188,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Burkholderiaceae"," Burkholderia",NA,NA,NA,NA
-"50",50,190,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Dokdonella"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Xanthomonadales"," Xanthomonadaceae"," Dokdonella",NA,NA,NA,NA
-"51",51,191,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Oxalobacteraceae; Herbaspirillum"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Oxalobacteraceae"," Herbaspirillum",NA,NA,NA,NA
-"52",52,194,"cellular organisms; Eukaryota;"," Eukaryota",2,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"53",53,198,"cellular organisms; Bacteria; Bacteroidetes; Sphingobacteriia; Sphingobacteriales; Sphingobacteriaceae; Pedobacter"," Bacteria",7," Bacteroidetes"," Sphingobacteriia"," Sphingobacteriales"," Sphingobacteriaceae"," Pedobacter",NA,NA,NA,NA
-"54",54,200,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; mitosporic Tremellales; Cryptococcus"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Tremellales"," mitosporic Tremellales"," Cryptococcus",NA," Fungi"," Dikarya"," Basidiomycota"
-"55",55,206,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Cryptomycota"," Eukaryota",5,NA,NA,NA,NA,NA,NA," Fungi"," Cryptomycota",NA
-"56",56,210,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; Burkholderia cepacia complex"," Bacteria",8," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Burkholderiaceae"," Burkholderia"," Burkholderia cepacia complex",NA,NA,NA
-"57",57,218,"cellular organisms; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae;  Agrobacterium"," Bacteria",7," Proteobacteria"," Alphaproteobacteria"," Rhizobiales"," Rhizobiaceae","  Agrobacterium",NA,NA,NA,NA
-"58",58,224,"cellular organisms; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Xanthobacteraceae; Labrys; Labrys methylaminiphilus"," Bacteria",8," Proteobacteria"," Alphaproteobacteria"," Rhizobiales"," Xanthobacteraceae"," Labrys"," Labrys methylaminiphilus",NA,NA,NA
-"59",59,227,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; mitosporic Hypocreales; Verticillium"," Eukaryota",11," Ascomycota"," Sordariomycetes"," Hypocreales"," mitosporic Hypocreales"," Verticillium",NA," Fungi"," Dikarya"," Ascomycota"
-"60",60,232,"cellular organisms; Bacteria; Actinobacteria; Actinomycetales; Propionibacterineae; Propionibacteriaceae; Propionibacterium"," Bacteria",7," Actinobacteria"," Actinomycetales"," Propionibacterineae"," Propionibacteriaceae"," Propionibacterium",NA,NA,NA,NA
-"61",61,239,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Burkholderiaceae"," Burkholderia",NA,NA,NA,NA
-"62",62,240,"cellular organisms; Bacteria; Actinobacteria; Actinomycetales;  Nocardiaceae; Rhodococcus; Rhodococcus; Rhodococcus erythropolis"," Bacteria",8," Actinobacteria"," Actinomycetales","  Nocardiaceae"," Rhodococcus"," Rhodococcus"," Rhodococcus erythropolis",NA,NA,NA
-"63",63,245,"cellular organisms; Bacteria; Bacteroidetes; Sphingobacteriia; Sphingobacteriales; Sphingobacteriaceae; Mucilaginibacter"," Bacteria",7," Bacteroidetes"," Sphingobacteriia"," Sphingobacteriales"," Sphingobacteriaceae"," Mucilaginibacter",NA,NA,NA,NA
-"64",64,247,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Cupriavidus; Cupriavidus basilensis"," Bacteria",8," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Burkholderiaceae"," Cupriavidus"," Cupriavidus basilensis",NA,NA,NA
-"65",65,250,"cellular organisms; Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Flavobacterium"," Bacteria",7," Bacteroidetes"," Flavobacteriia"," Flavobacteriales"," Flavobacteriaceae"," Flavobacterium",NA,NA,NA,NA
-"66",66,251,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Oxalobacteraceae; Duganella"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Oxalobacteraceae"," Duganella",NA,NA,NA,NA
-"67",67,254,"cellular organisms; Eukaryota; Stramenopiles; Chrysophyceae;"," Eukaryota",4,NA,NA,NA,NA,NA,NA," Chrysophyceae",NA,NA
-"68",68,258,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Curvibacter"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Comamonadaceae"," Curvibacter",NA,NA,NA,NA
-"69",69,268,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas fluorescens"," Bacteria",8," Proteobacteria"," Gammaproteobacteria"," Pseudomonadales"," Pseudomonadaceae"," Pseudomonas"," Pseudomonas fluorescens",NA,NA,NA
-"70",70,270,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Fungi s; Early diverging fungal lineages; Mucoromycotina; Mucorales; Mucorineae; Mucoraceae; Mucor; Mucor circinelloides"," Eukaryota",12," Early diverging fungal lineages"," Mucorales"," Mucorineae"," Mucoraceae"," Mucor"," Mucor circinelloides"," Fungi"," Fungi s"," Early diverging fungal lineages"
-"71",71,272,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Entomophthoromycota; Entomophthoromycetes; Entomophthorales; Entomophthoraceae"," Eukaryota",8," Entomophthoromycetes"," Entomophthoraceae",NA,NA,NA,NA," Fungi"," Entomophthoromycota"," Entomophthoromycetes"
-"72",72,276,"cellular organisms; Bacteria; Proteobacteria; Alphaproteobacteria; Rhodospirillales;"," Bacteria",5," Proteobacteria"," Alphaproteobacteria"," Rhodospirillales",NA,NA,NA,NA,NA,NA
-"73",73,284,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Burkholderiaceae"," Burkholderia",NA,NA,NA,NA
-"74",74,298,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Fungi s; Early diverging fungal lineages; Early diverging fungal lineages; Mucoromycotina; Mucorales; Umbelopsidaceae; Umbelopsis"," Eukaryota",11," Early diverging fungal lineages"," Mucoromycotina"," Mucorales"," Umbelopsidaceae"," Umbelopsis",NA," Fungi"," Fungi s"," Early diverging fungal lineages"
-"75",75,299,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae;"," Bacteria",6," Proteobacteria"," Gammaproteobacteria"," Enterobacteriales"," Enterobacteriaceae",NA,NA,NA,NA,NA
-"76",76,306,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; mitosporic Tremellales; Cryptococcus"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Tremellales"," mitosporic Tremellales"," Cryptococcus",NA," Fungi"," Dikarya"," Basidiomycota"
-"77",77,309,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Aeromonadales; Aeromonadaceae; Aeromonas"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Aeromonadales"," Aeromonadaceae"," Aeromonas",NA,NA,NA,NA
-"78",78,316,"cellular organisms; Eukaryota"," Eukaryota",2,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"79",79,318,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Burkholderiaceae"," Burkholderia",NA,NA,NA,NA
-"80",80,324,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Dyella"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Xanthomonadales"," Xanthomonadaceae"," Dyella",NA,NA,NA,NA
-"81",81,325,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; Burkholderia phenazinium"," Bacteria",8," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Burkholderiaceae"," Burkholderia"," Burkholderia phenazinium",NA,NA,NA
-"82",82,328,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Aspergillaceae; Aspergillus"," Eukaryota",11," Ascomycota"," Eurotiomycetes"," Eurotiales"," Aspergillaceae"," Aspergillus",NA," Fungi"," Dikarya"," Ascomycota"
-"83",83,330,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Arenimonas"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Xanthomonadales"," Xanthomonadaceae"," Arenimonas",NA,NA,NA,NA
-"84",84,332,"cellular organisms; Bacteria; Actinobacteria; Actinomycetales; Micrococcineae; Microbacteriaceae; Microbacterium; Microbacterium oxydans"," Bacteria",8," Actinobacteria"," Actinomycetales"," Micrococcineae"," Microbacteriaceae"," Microbacterium"," Microbacterium oxydans",NA,NA,NA
-"85",85,336,"cellular organisms; Eukaryota; Rhizaria; Cercozoa; Cercomonadida; Heteromitidae; Bodomorpha"," Eukaryota",7," Heteromitidae",NA,NA,NA,NA,NA," Cercozoa"," Cercomonadida"," Heteromitidae"
-"86",86,343,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Fungi s; Early diverging fungal lineages; Early diverging fungal lineages; Mucoromycotina; Mucorales; Umbelopsidaceae; Umbelopsis"," Eukaryota",11," Early diverging fungal lineages"," Mucoromycotina"," Mucorales"," Umbelopsidaceae"," Umbelopsis",NA," Fungi"," Fungi s"," Early diverging fungal lineages"
-"87",87,351,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas plecoglossicida "," Bacteria",8," Proteobacteria"," Gammaproteobacteria"," Pseudomonadales"," Pseudomonadaceae"," Pseudomonas"," Pseudomonas plecoglossicida ",NA,NA,NA
-"88",88,354,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas denitrificans "," Bacteria",8," Proteobacteria"," Gammaproteobacteria"," Pseudomonadales"," Pseudomonadaceae"," Pseudomonas"," Pseudomonas denitrificans ",NA,NA,NA
-"89",89,364,"cellular organisms; Bacteria;"," Bacteria",2,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"90",90,366,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Variovorax; Variovorax paradoxus"," Bacteria",8," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Comamonadaceae"," Variovorax"," Variovorax paradoxus",NA,NA,NA
-"91",91,368,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales;"," Bacteria",5," Proteobacteria"," Betaproteobacteria"," Burkholderiales",NA,NA,NA,NA,NA,NA
-"92",92,375,"cellular organisms; Bacteria; Actinobacteria; Actinomycetales; Micrococcineae; Microbacteriaceae; Leifsonia"," Bacteria",7," Actinobacteria"," Actinomycetales"," Micrococcineae"," Microbacteriaceae"," Leifsonia",NA,NA,NA,NA
-"93",93,378,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; Tremellaceae; Asterotremella"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Tremellales"," Tremellaceae"," Asterotremella",NA," Fungi"," Dikarya"," Basidiomycota"
-"94",94,379,"cellular organisms; Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus"," Bacteria",7," Firmicutes"," Bacilli"," Lactobacillales"," Streptococcaceae"," Streptococcus",NA,NA,NA,NA
-"95",95,385,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Alcaligenaceae; Achromobacter; Achromobacter spiritinus"," Bacteria",8," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Alcaligenaceae"," Achromobacter"," Achromobacter spiritinus",NA,NA,NA
-"96",96,387,"cellular organisms; Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae; Paenibacillus"," Bacteria",7," Firmicutes"," Bacilli"," Bacillales"," Paenibacillaceae"," Paenibacillus",NA,NA,NA,NA
-"97",97,388,"cellular organisms; Eukaryota;"," Eukaryota",2,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"98",98,392,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Serratia"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Enterobacteriales"," Enterobacteriaceae"," Serratia",NA,NA,NA,NA
-"99",99,393,"cellular organisms; Eukaryota; Stramenopiles; Chromista; Heterokontophyta; Oomycota; Oomycetes; Pythiales; Pythiaceae; Phytopythium; Phytopythium delawarense"," Eukaryota",11," Oomycota"," Pythiales"," Pythiaceae"," Phytopythium"," Phytopythium delawarense",NA," Chromista"," Heterokontophyta"," Oomycota"
-"100",100,399,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Trichoderma"," Eukaryota",11," Ascomycota"," Sordariomycetes"," Hypocreales"," Hypocreaceae"," Trichoderma",NA," Fungi"," Dikarya"," Ascomycota"
-"101",101,407,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; mitosporic Tremellales; Cryptococcus; Cryptococcus skinneri"," Eukaryota",12," Basidiomycota"," Tremellomycetes"," Tremellales"," mitosporic Tremellales"," Cryptococcus"," Cryptococcus skinneri"," Fungi"," Dikarya"," Basidiomycota"
-"102",102,409,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; mitosporic Tremellales; Trichosporon; Trichosporon porosum"," Eukaryota",12," Basidiomycota"," Tremellomycetes"," Tremellales"," mitosporic Tremellales"," Trichosporon"," Trichosporon porosum"," Fungi"," Dikarya"," Basidiomycota"
-"103",103,412,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Burkholderiaceae"," Burkholderia",NA,NA,NA,NA
-"104",104,428,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; Pezizomycotina; Lichinomycetes; Lichinales; Lichinaceae; Peccania"," Eukaryota",11," Ascomycota"," Lichinomycetes"," Lichinales"," Lichinaceae"," Peccania",NA," Fungi"," Dikarya"," Ascomycota"
-"105",105,436,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Burkholderiaceae"," Burkholderia",NA,NA,NA,NA
-"106",106,442,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; Tremellaceae; Asterotremella; Asterotremella musci"," Eukaryota",12," Basidiomycota"," Tremellomycetes"," Tremellales"," Tremellaceae"," Asterotremella"," Asterotremella musci"," Fungi"," Dikarya"," Basidiomycota"
-"107",107,443,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Trichoderma"," Eukaryota",11," Ascomycota"," Sordariomycetes"," Hypocreales"," Hypocreaceae"," Trichoderma",NA," Fungi"," Dikarya"," Ascomycota"
-"108",108,449,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Filobasidiales; mitosporic Filobasidiales; Cryptococcus; 
-Cryptococcus terreus"," Eukaryota",12," Basidiomycota"," Tremellomycetes"," Filobasidiales"," mitosporic Filobasidiales"," Cryptococcus"," 
-Cryptococcus terreus"," Fungi"," Dikarya"," Basidiomycota"
-"109",109,457,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Rhodanobacter"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Xanthomonadales"," Xanthomonadaceae"," Rhodanobacter",NA,NA,NA,NA
-"110",110,463,"cellular organisms; Bacteria; Proteobacteria; Alphaproteobacteria; Caulobacterales; Caulobacteraceae; Brevundimonas"," Bacteria",7," Proteobacteria"," Alphaproteobacteria"," Caulobacterales"," Caulobacteraceae"," Brevundimonas",NA,NA,NA,NA
-"111",111,468,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Oxalobacteraceae; Massilia"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Oxalobacteraceae"," Massilia",NA,NA,NA,NA
-"112",112,471,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Delftia"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Comamonadaceae"," Delftia",NA,NA,NA,NA
-"113",113,480,"cellular organisms; Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Bacillus"," Bacteria",7," Firmicutes"," Bacilli"," Bacillales"," Bacillaceae"," Bacillus",NA,NA,NA,NA
-"114",114,511,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas fluorescens group"," Bacteria",8," Proteobacteria"," Gammaproteobacteria"," Pseudomonadales"," Pseudomonadaceae"," Pseudomonas"," Pseudomonas fluorescens group",NA,NA,NA
-"115",115,515,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Filobasidiales; mitosporic Filobasidiales; Cryptococcus"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Filobasidiales"," mitosporic Filobasidiales"," Cryptococcus",NA," Fungi"," Dikarya"," Basidiomycota"
-"116",116,517,"cellular organisms; Bacteria; Bacteroidetes; Flavobacteriia; Flavobacteriales; Flavobacteriaceae; Chryseobacterium"," Bacteria",7," Bacteroidetes"," Flavobacteriia"," Flavobacteriales"," Flavobacteriaceae"," Chryseobacterium",NA,NA,NA,NA
-"117",117,518,"","unassigned",0,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"118",118,520,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Comamonas; Comamonas testosteroni"," Bacteria",8," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Comamonadaceae"," Comamonas"," Comamonas testosteroni",NA,NA,NA
-"119",119,538,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Oxalobacteraceae; Janthinobacterium"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Oxalobacteraceae"," Janthinobacterium",NA,NA,NA,NA
-"120",120,541,"cellular organisms; Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae;"," Bacteria",6," Firmicutes"," Bacilli"," Bacillales"," Paenibacillaceae",NA,NA,NA,NA,NA
-"121",121,542,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; mitosporic Tremellales; Trichosporon"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Tremellales"," mitosporic Tremellales"," Trichosporon",NA," Fungi"," Dikarya"," Basidiomycota"
-"122",122,545,"","unassigned",0,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"123",123,550,"cellular organisms; Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae; Paenibacillus"," Bacteria",7," Firmicutes"," Bacilli"," Bacillales"," Paenibacillaceae"," Paenibacillus",NA,NA,NA,NA
-"124",124,551,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas moorei"," Bacteria",8," Proteobacteria"," Gammaproteobacteria"," Pseudomonadales"," Pseudomonadaceae"," Pseudomonas"," Pseudomonas moorei",NA,NA,NA
-"125",125,556,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales; Pasteurellaceae; Haemophilus"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Pasteurellales"," Pasteurellaceae"," Haemophilus",NA,NA,NA,NA
-"126",126,561,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia; Burkholderia cepacia complex"," Bacteria",8," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Burkholderiaceae"," Burkholderia"," Burkholderia cepacia complex",NA,NA,NA
-"127",127,565,"cellular organisms; Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus; Staphylococcus epidermidis"," Bacteria",8," Firmicutes"," Bacilli"," Bacillales"," Staphylococcaceae"," Staphylococcus"," Staphylococcus epidermidis",NA,NA,NA
-"128",128,571,"","unassigned",0,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"129",129,574,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Pseudomonadales"," Pseudomonadaceae"," Pseudomonas",NA,NA,NA,NA
-"130",130,578,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Filobasidiales; mitosporic Filobasidiales; Cryptococcus; Cryptococcus terreus"," Eukaryota",12," Basidiomycota"," Tremellomycetes"," Filobasidiales"," mitosporic Filobasidiales"," Cryptococcus"," Cryptococcus terreus"," Fungi"," Dikarya"," Basidiomycota"
-"131",131,580,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Filobasidiales; mitosporic Filobasidiales; Cryptococcus"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Filobasidiales"," mitosporic Filobasidiales"," Cryptococcus",NA," Fungi"," Dikarya"," Basidiomycota"
-"132",132,581,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Oxalobacteraceae; Collimonas"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Oxalobacteraceae"," Collimonas",NA,NA,NA,NA
-"133",133,585,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Trichoderma"," Eukaryota",11," Ascomycota"," Sordariomycetes"," Hypocreales"," Hypocreaceae"," Trichoderma",NA," Fungi"," Dikarya"," Ascomycota"
-"134",134,586,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Burkholderiaceae"," Burkholderia",NA,NA,NA,NA
-"135",135,590,"cellular organisms; Bacteria; Bacteroidetes; Sphingobacteriia; Sphingobacteriales; Sphingobacteriaceae; Pedobacter"," Bacteria",7," Bacteroidetes"," Sphingobacteriia"," Sphingobacteriales"," Sphingobacteriaceae"," Pedobacter",NA,NA,NA,NA
-"136",136,592,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Pseudomonadales"," Moraxellaceae"," Acinetobacter",NA,NA,NA,NA
-"137",137,593,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Trichoderma"," Eukaryota",11," Ascomycota"," Sordariomycetes"," Hypocreales"," Hypocreaceae"," Trichoderma",NA," Fungi"," Dikarya"," Ascomycota"
-"138",138,595,"cellular organisms; Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae; Paenibacillus"," Bacteria",7," Firmicutes"," Bacilli"," Bacillales"," Paenibacillaceae"," Paenibacillus",NA,NA,NA,NA
-"139",139,598,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Filobasidiales; mitosporic Filobasidiales; Cryptococcus"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Filobasidiales"," mitosporic Filobasidiales"," Cryptococcus",NA," Fungi"," Dikarya"," Basidiomycota"
-"140",140,599,"cellular organisms; Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus"," Bacteria",7," Firmicutes"," Bacilli"," Bacillales"," Staphylococcaceae"," Staphylococcus",NA,NA,NA,NA
-"141",141,618,"cellular organisms; Bacteria; Bacteroidetes; Sphingobacteriia; Sphingobacteriales; Chitinophagaceae; Lacibacter"," Bacteria",7," Bacteroidetes"," Sphingobacteriia"," Sphingobacteriales"," Chitinophagaceae"," Lacibacter",NA,NA,NA,NA
-"142",142,624,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Pseudomonadales"," Pseudomonadaceae"," Pseudomonas",NA,NA,NA,NA
-"143",143,633,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Pseudomonadales"," Pseudomonadaceae"," Pseudomonas",NA,NA,NA,NA
-"144",144,636,"cellular organisms; Bacteria; Actinobacteria; Actinomycetales; Micrococcineae; Microbacteriaceae; Leifsonia"," Bacteria",7," Actinobacteria"," Actinomycetales"," Micrococcineae"," Microbacteriaceae"," Leifsonia",NA,NA,NA,NA
-"145",145,640,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Filobasidiales; mitosporic Filobasidiales; Cryptococcus"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Filobasidiales"," mitosporic Filobasidiales"," Cryptococcus",NA," Fungi"," Dikarya"," Basidiomycota"
-"146",146,643,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Fungi; Early diverging fungal lineages; Early diverging fungal lineages; Mucoromycotina; Mucorales; Umbelopsidaceae; Umbelopsis"," Eukaryota",11," Early diverging fungal lineages"," Mucoromycotina"," Mucorales"," Umbelopsidaceae"," Umbelopsis",NA," Fungi"," Fungi"," Early diverging fungal lineages"
-"147",147,648,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas denitrificans "," Bacteria",8," Proteobacteria"," Gammaproteobacteria"," Pseudomonadales"," Pseudomonadaceae"," Pseudomonas"," Pseudomonas denitrificans ",NA,NA,NA
-"148",148,650,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Trichoderma"," Eukaryota",11," Ascomycota"," Sordariomycetes"," Hypocreales"," Hypocreaceae"," Trichoderma",NA," Fungi"," Dikarya"," Ascomycota"
-"149",149,653,"cellular organisms; Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae; Paenibacillus"," Bacteria",7," Firmicutes"," Bacilli"," Bacillales"," Paenibacillaceae"," Paenibacillus",NA,NA,NA,NA
-"150",150,657,"cellular organisms; Bacteria; Bacteroidetes; Sphingobacteriia; Sphingobacteriales; Sphingobacteriaceae; Mucilaginibacter"," Bacteria",7," Bacteroidetes"," Sphingobacteriia"," Sphingobacteriales"," Sphingobacteriaceae"," Mucilaginibacter",NA,NA,NA,NA
-"151",151,665,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Legionellales; Coxiellaceae; Rickettsiella"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Legionellales"," Coxiellaceae"," Rickettsiella",NA,NA,NA,NA
-"152",152,671,"cellular organisms; Bacteria;"," Bacteria",2,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"153",153,681,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Fungi s; Early diverging fungal lineages; Early diverging fungal lineages; Mucoromycotina; Mucorales; Umbelopsidaceae; Umbelopsis"," Eukaryota",11," Early diverging fungal lineages"," Mucoromycotina"," Mucorales"," Umbelopsidaceae"," Umbelopsis",NA," Fungi"," Fungi s"," Early diverging fungal lineages"
-"154",154,690,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas denitrificans "," Bacteria",8," Proteobacteria"," Gammaproteobacteria"," Pseudomonadales"," Pseudomonadaceae"," Pseudomonas"," Pseudomonas denitrificans ",NA,NA,NA
-"155",155,692,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; mitosporic Tremellales; Trichosporon;Trichosporon wieringae"," Eukaryota",12," Basidiomycota"," Tremellomycetes"," Tremellales"," mitosporic Tremellales"," Trichosporon","Trichosporon wieringae"," Fungi"," Dikarya"," Basidiomycota"
-"156",156,697,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Enterobacter"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Enterobacteriales"," Enterobacteriaceae"," Enterobacter",NA,NA,NA,NA
-"157",157,698,"cellular organisms; Bacteria"," Bacteria",2,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"158",158,700,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Trichoderma"," Eukaryota",11," Ascomycota"," Sordariomycetes"," Hypocreales"," Hypocreaceae"," Trichoderma",NA," Fungi"," Dikarya"," Ascomycota"
-"159",159,706,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Trichoderma"," Eukaryota",11," Ascomycota"," Sordariomycetes"," Hypocreales"," Hypocreaceae"," Trichoderma",NA," Fungi"," Dikarya"," Ascomycota"
-"160",160,711,"cellular organisms; Bacteria"," Bacteria",2,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"161",161,720,"cellular organisms; Bacteria; Firmicutes; Clostridia; Clostridiales"," Bacteria",5," Firmicutes"," Clostridia"," Clostridiales",NA,NA,NA,NA,NA,NA
-"162",162,721,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales;  Aspergillaceae; Penicillium; Penicillium chrysogenum"," Eukaryota",12," Ascomycota"," Eurotiomycetes"," Eurotiales","  Aspergillaceae"," Penicillium"," Penicillium chrysogenum"," Fungi"," Dikarya"," Ascomycota"
-"163",163,723,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Oxalobacteraceae; Massilia"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Oxalobacteraceae"," Massilia",NA,NA,NA,NA
-"164",164,736,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Fungi s; Early diverging fungal lineages; Mucoromycotina; Mucorales; Mucorineae; Mucoraceae; Pilaira"," Eukaryota",11," Early diverging fungal lineages"," Mucorales"," Mucorineae"," Mucoraceae"," Pilaira",NA," Fungi"," Fungi s"," Early diverging fungal lineages"
-"165",165,742,"cellular organisms; Bacteria; Firmicutes; Bacilli; Bacillales; Staphylococcaceae; Staphylococcus"," Bacteria",7," Firmicutes"," Bacilli"," Bacillales"," Staphylococcaceae"," Staphylococcus",NA,NA,NA,NA
-"166",166,743,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; Tremellaceae; Asterotremella"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Tremellales"," Tremellaceae"," Asterotremella",NA," Fungi"," Dikarya"," Basidiomycota"
-"167",167,744,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; mitosporic Tremellales; Trichosporon"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Tremellales"," mitosporic Tremellales"," Trichosporon",NA," Fungi"," Dikarya"," Basidiomycota"
-"168",168,745,"cellular organisms; Bacteria"," Bacteria",2,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"169",169,746,"cellular organisms; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae;  Rhizobium; Rhizobium jaguaris"," Bacteria",8," Proteobacteria"," Alphaproteobacteria"," Rhizobiales"," Rhizobiaceae","  Rhizobium"," Rhizobium jaguaris",NA,NA,NA
-"170",170,750,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Pseudomonadales"," Pseudomonadaceae"," Pseudomonas",NA,NA,NA,NA
-"171",171,751,"cellular organisms; Eukaryota; Rhizaria; Cercozoa; Vampyrellida"," Eukaryota",5,NA,NA,NA,NA,NA,NA," Cercozoa"," Vampyrellida",NA
-"172",172,767,"cellular organisms; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Phyllobacteriaceae; Mesorhizobium"," Bacteria",7," Proteobacteria"," Alphaproteobacteria"," Rhizobiales"," Phyllobacteriaceae"," Mesorhizobium",NA,NA,NA,NA
-"173",173,770,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas pertucinogena group"," Bacteria",8," Proteobacteria"," Gammaproteobacteria"," Pseudomonadales"," Pseudomonadaceae"," Pseudomonas"," Pseudomonas pertucinogena group",NA,NA,NA
-"174",174,779,"cellular organisms; Bacteria; Firmicutes; Clostridia"," Bacteria",4," Firmicutes"," Clostridia",NA,NA,NA,NA,NA,NA,NA
-"175",175,798,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Burkholderiaceae"," Burkholderia",NA,NA,NA,NA
-"176",176,805,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; mitosporic Tremellales; Trichosporon"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Tremellales"," mitosporic Tremellales"," Trichosporon",NA," Fungi"," Dikarya"," Basidiomycota"
-"177",177,810,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; Tremellaceae; Asterotremella"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Tremellales"," Tremellaceae"," Asterotremella",NA," Fungi"," Dikarya"," Basidiomycota"
-"178",178,817,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Neisseriales"," Bacteria",5," Proteobacteria"," Betaproteobacteria"," Neisseriales",NA,NA,NA,NA,NA,NA
-"179",179,825,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Serratia"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Enterobacteriales"," Enterobacteriaceae"," Serratia",NA,NA,NA,NA
-"180",180,836,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; mitosporic Tremellales; Trichosporon"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Tremellales"," mitosporic Tremellales"," Trichosporon",NA," Fungi"," Dikarya"," Basidiomycota"
-"181",181,838,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Trichoderma"," Eukaryota",11," Ascomycota"," Sordariomycetes"," Hypocreales"," Hypocreaceae"," Trichoderma",NA," Fungi"," Dikarya"," Ascomycota"
-"182",182,841,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Pseudomonadales"," Pseudomonadaceae"," Pseudomonas",NA,NA,NA,NA
-"183",183,850,"cellular organisms; Bacteria"," Bacteria",2,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"184",184,852,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Burkholderiaceae"," Burkholderia",NA,NA,NA,NA
-"185",185,854,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Fungi s; Fungi s; Zygomycota; Mortierellomycotina; Mortierellales; Mortierellaceae; Mortierella"," Eukaryota",11," Fungi s"," Mortierellomycotina"," Mortierellales"," Mortierellaceae"," Mortierella",NA," Fungi"," Fungi s"," Fungi s"
-"186",186,861,"cellular organisms; Eukaryota; Stramenopiles; Chrysophyceae; Chromulinales; Chromulinaceae; Ochromonas"," Eukaryota",7," Chromulinaceae",NA,NA,NA,NA,NA," Chrysophyceae"," Chromulinales"," Chromulinaceae"
-"187",187,866,"cellular organisms; Eukaryota"," Eukaryota",2,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"188",188,867,"cellular organisms; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales;"," Bacteria",5," Proteobacteria"," Alphaproteobacteria"," Rhizobiales",NA,NA,NA,NA,NA,NA
-"189",189,869,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Fungi s; Early diverging fungal lineages; Early diverging fungal lineages; Mucoromycotina; Mucorales; Umbelopsidaceae; Umbelopsis"," Eukaryota",11," Early diverging fungal lineages"," Mucoromycotina"," Mucorales"," Umbelopsidaceae"," Umbelopsis",NA," Fungi"," Fungi s"," Early diverging fungal lineages"
-"190",190,873,"cellular organisms; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Methylobacteriaceae; Methylobacterium"," Bacteria",7," Proteobacteria"," Alphaproteobacteria"," Rhizobiales"," Methylobacteriaceae"," Methylobacterium",NA,NA,NA,NA
-"191",191,876,"","unassigned",0,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"192",192,879,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Xanthomonadaceae; Dyella"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Xanthomonadales"," Xanthomonadaceae"," Dyella",NA,NA,NA,NA
-"193",193,882,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Oxalobacteraceae; Janthinobacterium"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Oxalobacteraceae"," Janthinobacterium",NA,NA,NA,NA
-"194",194,895,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; mitosporic Tremellales; Cryptococcus; 
-Cryptococcus skinneri"," Eukaryota",12," Basidiomycota"," Tremellomycetes"," Tremellales"," mitosporic Tremellales"," Cryptococcus"," 
-Cryptococcus skinneri"," Fungi"," Dikarya"," Basidiomycota"
-"195",195,897,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Serratia;Serratia odorifera "," Bacteria",8," Proteobacteria"," Gammaproteobacteria"," Enterobacteriales"," Enterobacteriaceae"," Serratia","Serratia odorifera ",NA,NA,NA
-"196",196,898,"cellular organisms; Bacteria"," Bacteria",2,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"197",197,910," cellular organisms; Eukaryota; Opisthokonta; Fungi; Fungi s; Early diverging fungal lineages; Early diverging fungal lineages; Mucoromycotina; Mucorales; Umbelopsidaceae; Umbelopsis; Umbelopsis isabellina"," Eukaryota",12," Early diverging fungal lineages"," Mucoromycotina"," Mucorales"," Umbelopsidaceae"," Umbelopsis"," Umbelopsis isabellina"," Fungi"," Fungi s"," Early diverging fungal lineages"
-"198",198,919,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Aspergillaceae; Penicillium"," Eukaryota",11," Ascomycota"," Eurotiomycetes"," Eurotiales"," Aspergillaceae"," Penicillium",NA," Fungi"," Dikarya"," Ascomycota"
-"199",199,925,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; Pezizomycotina; mitosporic Pezizomycotina; Dermateaceae; Gloeosporium"," Eukaryota",10," Ascomycota"," mitosporic Pezizomycotina"," Dermateaceae"," Gloeosporium",NA,NA," Fungi"," Dikarya"," Ascomycota"
-"200",200,932,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Trichoderma"," Eukaryota",11," Ascomycota"," Sordariomycetes"," Hypocreales"," Hypocreaceae"," Trichoderma",NA," Fungi"," Dikarya"," Ascomycota"
-"201",201,934,"cellular organisms; Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae; Cohnella; Cohnella luojiensis"," Bacteria",8," Firmicutes"," Bacilli"," Bacillales"," Paenibacillaceae"," Cohnella"," Cohnella luojiensis",NA,NA,NA
-"202",202,939,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Filobasidiales; mitosporic Filobasidiales; Cryptococcus"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Filobasidiales"," mitosporic Filobasidiales"," Cryptococcus",NA," Fungi"," Dikarya"," Basidiomycota"
-"203",203,941,"cellular organisms; Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Rhizobiaceae;  Rhizobium"," Bacteria",7," Proteobacteria"," Alphaproteobacteria"," Rhizobiales"," Rhizobiaceae","  Rhizobium",NA,NA,NA,NA
-"204",204,947,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Serratia"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Enterobacteriales"," Enterobacteriaceae"," Serratia",NA,NA,NA,NA
-"205",205,950,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Serratia"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Enterobacteriales"," Enterobacteriaceae"," Serratia",NA,NA,NA,NA
-"206",206,955,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Burkholderiaceae"," Burkholderia",NA,NA,NA,NA
-"207",207,958,"","unassigned",0,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"208",208,965,"","unassigned",0,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"209",209,970,"","unassigned",0,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"210",210,981,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Pseudomonadales"," Pseudomonadaceae"," Pseudomonas",NA,NA,NA,NA
-"211",211,992,"cellular organisms; Bacteria; Bacteroidetes; Sphingobacteriia; Sphingobacteriales; Chitinophagaceae; Chitinophaga"," Bacteria",7," Bacteroidetes"," Sphingobacteriia"," Sphingobacteriales"," Chitinophagaceae"," Chitinophaga",NA,NA,NA,NA
-"212",212,1006,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae"," Eukaryota",10," Ascomycota"," Sordariomycetes"," Hypocreales"," Hypocreaceae",NA,NA," Fungi"," Dikarya"," Ascomycota"
-"213",213,1022,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Fungi s; Early diverging fungal lineages; Early diverging fungal lineages; Mucoromycotina; Mucorales; Umbelopsidaceae; Umbelopsis"," Eukaryota",11," Early diverging fungal lineages"," Mucoromycotina"," Mucorales"," Umbelopsidaceae"," Umbelopsis",NA," Fungi"," Fungi s"," Early diverging fungal lineages"
-"214",214,1023,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Fungi s; Early diverging fungal lineages; Early diverging fungal lineages; Mucoromycotina; Mucorales; Umbelopsidaceae; Umbelopsis; Umbelopsis isabellina"," Eukaryota",12," Early diverging fungal lineages"," Mucoromycotina"," Mucorales"," Umbelopsidaceae"," Umbelopsis"," Umbelopsis isabellina"," Fungi"," Fungi s"," Early diverging fungal lineages"
-"215",215,1026,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; mitosporic Tremellales; Trichosporon; 
-Trichosporon porosum"," Eukaryota",12," Basidiomycota"," Tremellomycetes"," Tremellales"," mitosporic Tremellales"," Trichosporon"," 
-Trichosporon porosum"," Fungi"," Dikarya"," Basidiomycota"
-"216",216,1030,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; mitosporic Tremellales; Cryptococcus"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Tremellales"," mitosporic Tremellales"," Cryptococcus",NA," Fungi"," Dikarya"," Basidiomycota"
-"217",217,1031,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; mitosporic Tremellales; Cryptococcus"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Tremellales"," mitosporic Tremellales"," Cryptococcus",NA," Fungi"," Dikarya"," Basidiomycota"
-"218",218,1056,"cellular organisms; Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales"," Bacteria",5," Bacteroidetes"," Bacteroidia"," Bacteroidales",NA,NA,NA,NA,NA,NA
-"219",219,1059,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; Pezizomycotina; Sordariomycetes; Hypocreales; Hypocreaceae; Trichoderma"," Eukaryota",11," Ascomycota"," Sordariomycetes"," Hypocreales"," Hypocreaceae"," Trichoderma",NA," Fungi"," Dikarya"," Ascomycota"
-"220",220,1060,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; mitosporic Tremellales; Cryptococcus"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Tremellales"," mitosporic Tremellales"," Cryptococcus",NA," Fungi"," Dikarya"," Basidiomycota"
-"221",221,1064,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; mitosporic Tremellales; Trichosporon"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Tremellales"," mitosporic Tremellales"," Trichosporon",NA," Fungi"," Dikarya"," Basidiomycota"
-"222",222,1067,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; mitosporic Tremellales; Cryptococcus"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Tremellales"," mitosporic Tremellales"," Cryptococcus",NA," Fungi"," Dikarya"," Basidiomycota"
-"223",223,1069,"cellular organisms; Bacteria"," Bacteria",2,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"224",224,1079,"cellular organisms; Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;"," Eukaryota",6," Agaricomycotina",NA,NA,NA,NA,NA," Dikarya"," Basidiomycota"," Agaricomycotina"
-"225",225,1080,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; Tremellaceae; Asterotremella"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Tremellales"," Tremellaceae"," Asterotremella",NA," Fungi"," Dikarya"," Basidiomycota"
-"226",226,1082,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Fungi s; Early diverging fungal lineages; Early diverging fungal lineages; Mucoromycotina; Mucorales; Umbelopsidaceae; Umbelopsis"," Eukaryota",11," Early diverging fungal lineages"," Mucoromycotina"," Mucorales"," Umbelopsidaceae"," Umbelopsis",NA," Fungi"," Fungi s"," Early diverging fungal lineages"
-"227",227,1084,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiales; Aspergillaceae; Penicillium"," Eukaryota",11," Ascomycota"," Eurotiomycetes"," Eurotiales"," Aspergillaceae"," Penicillium",NA," Fungi"," Dikarya"," Ascomycota"
-"228",228,1086,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Malikia"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Comamonadaceae"," Malikia",NA,NA,NA,NA
-"229",229,1087,"cellular organisms; Bacteria; Proteobacteria; Alphaproteobacteria; Sphingomonadales; Sphingomonadaceae; Sphingobium"," Bacteria",7," Proteobacteria"," Alphaproteobacteria"," Sphingomonadales"," Sphingomonadaceae"," Sphingobium",NA,NA,NA,NA
-"230",230,1092,"cellular organisms; Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae; Paenibacillus; Paenibacillus castaneae"," Bacteria",8," Firmicutes"," Bacilli"," Bacillales"," Paenibacillaceae"," Paenibacillus"," Paenibacillus castaneae",NA,NA,NA
-"231",231,1122,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Fungi s; Fungi s; Zygomycota; Mortierellomycotina; Mortierellales; Mortierellaceae; Mortierella"," Eukaryota",11," Fungi s"," Mortierellomycotina"," Mortierellales"," Mortierellaceae"," Mortierella",NA," Fungi"," Fungi s"," Fungi s"
-"232",232,1125,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Fungi s; Early diverging fungal lineages; Early diverging fungal lineages; Mucoromycotina; Mucorales; Umbelopsidaceae; Umbelopsis"," Eukaryota",11," Early diverging fungal lineages"," Mucoromycotina"," Mucorales"," Umbelopsidaceae"," Umbelopsis",NA," Fungi"," Fungi s"," Early diverging fungal lineages"
-"233",233,1127,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; Tremellaceae; Asterotremella"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Tremellales"," Tremellaceae"," Asterotremella",NA," Fungi"," Dikarya"," Basidiomycota"
-"234",234,1128,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Serratia"," Bacteria",7," Proteobacteria"," Gammaproteobacteria"," Enterobacteriales"," Enterobacteriaceae"," Serratia",NA,NA,NA,NA
-"235",235,1154,"cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Tremellomycetes; Tremellales; mitosporic Tremellales; Trichosporon"," Eukaryota",11," Basidiomycota"," Tremellomycetes"," Tremellales"," mitosporic Tremellales"," Trichosporon",NA," Fungi"," Dikarya"," Basidiomycota"
-"236",236,1155,"cellular organisms; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas; Pseudomonas alkylphenolia"," Bacteria",8," Proteobacteria"," Gammaproteobacteria"," Pseudomonadales"," Pseudomonadaceae"," Pseudomonas"," Pseudomonas alkylphenolia",NA,NA,NA
-"237",237,1161,"cellular organisms; Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Burkholderia"," Bacteria",7," Proteobacteria"," Betaproteobacteria"," Burkholderiales"," Burkholderiaceae"," Burkholderia",NA,NA,NA,NA
+,X,OTU,Domain,Genus
+1,1,2, Eukaryota, Trichosporon
+2,2,3, Eukaryota, Trichoderma
+3,3,7, Eukaryota, Cryptococcus
+4,4,8, Bacteria, Pseudomonas
+5,5,9, Eukaryota, Umbelopsis
+6,6,10, Eukaryota, Penicillium
+7,7,12, Bacteria, Serratia
+8,8,16, Bacteria, Burkholderia
+9,9,17, Eukaryota, Cryptococcus
+10,10,18, Eukaryota,NA
+11,11,20, Bacteria, Pseudomonas
+12,12,23, Bacteria, Pseudomonas
+13,13,27, Bacteria, Dyella
+14,14,28, Bacteria, Pseudomonas
+15,15,32, Bacteria, Dyella
+16,16,35, Bacteria, Stenotrophomonas
+17,17,39, Bacteria, Duganella
+18,18,48, Bacteria, Yersinia
+19,19,54, Eukaryota, Cryptococcus
+20,20,56, Bacteria, Acidisoma
+21,21,71, Eukaryota, Mortierella
+22,22,74, Bacteria, Chryseobacterium
+23,23,77, Eukaryota, Umbelopsis
+24,24,81, Bacteria, Novosphingobium
+25,25,86, Bacteria, Burkholderia
+26,26,90, Bacteria,  Rhizobium
+27,27,91, Bacteria, Burkholderia
+28,28,94, Bacteria, Malikia
+29,29,97, Bacteria, Herbaspirillum
+30,30,105, Eukaryota, Trichosporon
+31,31,107, Bacteria, Delftia
+32,32,108, Bacteria, Chitinophaga
+33,33,116, Bacteria, Dyella
+34,34,123, Bacteria, Afipia
+35,35,124, Bacteria, Asaia
+36,36,129, Eukaryota, Trichosporon
+37,37,141, Eukaryota, Resinicium
+38,38,143, Bacteria, Mucilaginibacter
+39,39,146, Eukaryota, Mortierella
+40,40,156, Eukaryota,NA
+41,41,168, Bacteria, Paenibacillus
+42,42,170, Bacteria, Burkholderia
+43,43,171, Bacteria, Paenibacillus
+44,44,180, Bacteria, Achromobacter
+45,45,182, Bacteria, Burkholderia
+46,46,184, Eukaryota, Saccharomyces
+47,47,185,unassigned,NA
+48,48,186, Bacteria, Buttiauxella
+49,49,188, Bacteria, Burkholderia
+50,50,190, Bacteria, Dokdonella
+51,51,191, Bacteria, Herbaspirillum
+52,52,194, Eukaryota,NA
+53,53,198, Bacteria, Pedobacter
+54,54,200, Eukaryota, Cryptococcus
+55,55,206, Eukaryota,NA
+56,56,210, Bacteria, Burkholderia
+57,57,218, Bacteria,  Agrobacterium
+58,58,224, Bacteria, Labrys
+59,59,227, Eukaryota, Verticillium
+60,60,232, Bacteria, Propionibacterium
+61,61,239, Bacteria, Burkholderia
+62,62,240, Bacteria, Rhodococcus
+63,63,245, Bacteria, Mucilaginibacter
+64,64,247, Bacteria, Cupriavidus
+65,65,250, Bacteria, Flavobacterium
+66,66,251, Bacteria, Duganella
+67,67,254, Eukaryota,NA
+68,68,258, Bacteria, Curvibacter
+69,69,268, Bacteria, Pseudomonas
+70,70,270, Eukaryota, Mucor
+71,71,272, Eukaryota,NA
+72,72,276, Bacteria,NA
+73,73,284, Bacteria, Burkholderia
+74,74,298, Eukaryota, Umbelopsis
+75,75,299, Bacteria,NA
+76,76,306, Eukaryota, Cryptococcus
+77,77,309, Bacteria, Aeromonas
+78,78,316, Eukaryota,NA
+79,79,318, Bacteria, Burkholderia
+80,80,324, Bacteria, Dyella
+81,81,325, Bacteria, Burkholderia
+82,82,328, Eukaryota, Aspergillus
+83,83,330, Bacteria, Arenimonas
+84,84,332, Bacteria, Microbacterium
+85,85,336, Eukaryota,NA
+86,86,343, Eukaryota, Umbelopsis
+87,87,351, Bacteria, Pseudomonas
+88,88,354, Bacteria, Pseudomonas
+89,89,364, Bacteria,NA
+90,90,366, Bacteria, Variovorax
+91,91,368, Bacteria,NA
+92,92,375, Bacteria, Leifsonia
+93,93,378, Eukaryota, Asterotremella
+94,94,379, Bacteria, Streptococcus
+95,95,385, Bacteria, Achromobacter
+96,96,387, Bacteria, Paenibacillus
+97,97,388, Eukaryota,NA
+98,98,392, Bacteria, Serratia
+99,99,393, Eukaryota, Phytopythium delawarense
+100,100,399, Eukaryota, Trichoderma
+101,101,407, Eukaryota, Cryptococcus
+102,102,409, Eukaryota, Trichosporon
+103,103,412, Bacteria, Burkholderia
+104,104,428, Eukaryota, Peccania
+105,105,436, Bacteria, Burkholderia
+106,106,442, Eukaryota, Asterotremella
+107,107,443, Eukaryota, Trichoderma
+108,108,449, Eukaryota, Cryptococcus
+109,109,457, Bacteria, Rhodanobacter
+110,110,463, Bacteria, Brevundimonas
+111,111,468, Bacteria, Massilia
+112,112,471, Bacteria, Delftia
+113,113,480, Bacteria, Bacillus
+114,114,511, Bacteria, Pseudomonas
+115,115,515, Eukaryota, Cryptococcus
+116,116,517, Bacteria, Chryseobacterium
+117,117,518,unassigned,NA
+118,118,520, Bacteria, Comamonas
+119,119,538, Bacteria, Janthinobacterium
+120,120,541, Bacteria,NA
+121,121,542, Eukaryota, Trichosporon
+122,122,545,unassigned,NA
+123,123,550, Bacteria, Paenibacillus
+124,124,551, Bacteria, Pseudomonas
+125,125,556, Bacteria, Haemophilus
+126,126,561, Bacteria, Burkholderia
+127,127,565, Bacteria, Staphylococcus
+128,128,571,unassigned,NA
+129,129,574, Bacteria, Pseudomonas
+130,130,578, Eukaryota, Cryptococcus
+131,131,580, Eukaryota, Cryptococcus
+132,132,581, Bacteria, Collimonas
+133,133,585, Eukaryota, Trichoderma
+134,134,586, Bacteria, Burkholderia
+135,135,590, Bacteria, Pedobacter
+136,136,592, Bacteria, Acinetobacter
+137,137,593, Eukaryota, Trichoderma
+138,138,595, Bacteria, Paenibacillus
+139,139,598, Eukaryota, Cryptococcus
+140,140,599, Bacteria, Staphylococcus
+141,141,618, Bacteria, Lacibacter
+142,142,624, Bacteria, Pseudomonas
+143,143,633, Bacteria, Pseudomonas
+144,144,636, Bacteria, Leifsonia
+145,145,640, Eukaryota, Cryptococcus
+146,146,643, Eukaryota, Umbelopsis
+147,147,648, Bacteria, Pseudomonas
+148,148,650, Eukaryota, Trichoderma
+149,149,653, Bacteria, Paenibacillus
+150,150,657, Bacteria, Mucilaginibacter
+151,151,665, Bacteria, Rickettsiella
+152,152,671, Bacteria,NA
+153,153,681, Eukaryota, Umbelopsis
+154,154,690, Bacteria, Pseudomonas
+155,155,692, Eukaryota, Trichosporon
+156,156,697, Bacteria, Enterobacter
+157,157,698, Bacteria,NA
+158,158,700, Eukaryota, Trichoderma
+159,159,706, Eukaryota, Trichoderma
+160,160,711, Bacteria,NA
+161,161,720, Bacteria,NA
+162,162,721, Eukaryota, Penicillium
+163,163,723, Bacteria, Massilia
+164,164,736, Eukaryota, Pilaira
+165,165,742, Bacteria, Staphylococcus
+166,166,743, Eukaryota, Asterotremella
+167,167,744, Eukaryota, Trichosporon
+168,168,745, Bacteria,NA
+169,169,746, Bacteria,  Rhizobium
+170,170,750, Bacteria, Pseudomonas
+171,171,751, Eukaryota,NA
+172,172,767, Bacteria, Mesorhizobium
+173,173,770, Bacteria, Pseudomonas
+174,174,779, Bacteria,NA
+175,175,798, Bacteria, Burkholderia
+176,176,805, Eukaryota, Trichosporon
+177,177,810, Eukaryota, Asterotremella
+178,178,817, Bacteria,NA
+179,179,825, Bacteria, Serratia
+180,180,836, Eukaryota, Trichosporon
+181,181,838, Eukaryota, Trichoderma
+182,182,841, Bacteria, Pseudomonas
+183,183,850, Bacteria,NA
+184,184,852, Bacteria, Burkholderia
+185,185,854, Eukaryota, Mortierella
+186,186,861, Eukaryota,NA
+187,187,866, Eukaryota,NA
+188,188,867, Bacteria,NA
+189,189,869, Eukaryota, Umbelopsis
+190,190,873, Bacteria, Methylobacterium
+191,191,876,unassigned,NA
+192,192,879, Bacteria, Dyella
+193,193,882, Bacteria, Janthinobacterium
+194,194,895, Eukaryota, Cryptococcus
+195,195,897, Bacteria, Serratia
+196,196,898, Bacteria,NA
+197,197,910, Eukaryota, Umbelopsis
+198,198,919, Eukaryota, Penicillium
+199,199,925, Eukaryota,NA
+200,200,932, Eukaryota, Trichoderma
+201,201,934, Bacteria, Cohnella
+202,202,939, Eukaryota, Cryptococcus
+203,203,941, Bacteria,  Rhizobium
+204,204,947, Bacteria, Serratia
+205,205,950, Bacteria, Serratia
+206,206,955, Bacteria, Burkholderia
+207,207,958,unassigned,NA
+208,208,965,unassigned,NA
+209,209,970,unassigned,NA
+210,210,981, Bacteria, Pseudomonas
+211,211,992, Bacteria, Chitinophaga
+212,212,1006, Eukaryota,NA
+213,213,1022, Eukaryota, Umbelopsis
+214,214,1023, Eukaryota, Umbelopsis
+215,215,1026, Eukaryota, Trichosporon
+216,216,1030, Eukaryota, Cryptococcus
+217,217,1031, Eukaryota, Cryptococcus
+218,218,1056, Bacteria,NA
+219,219,1059, Eukaryota, Trichoderma
+220,220,1060, Eukaryota, Cryptococcus
+221,221,1064, Eukaryota, Trichosporon
+222,222,1067, Eukaryota, Cryptococcus
+223,223,1069, Bacteria,NA
+224,224,1079, Eukaryota,NA
+225,225,1080, Eukaryota, Asterotremella
+226,226,1082, Eukaryota, Umbelopsis
+227,227,1084, Eukaryota, Penicillium
+228,228,1086, Bacteria, Malikia
+229,229,1087, Bacteria, Sphingobium
+230,230,1092, Bacteria, Paenibacillus
+231,231,1122, Eukaryota, Mortierella
+232,232,1125, Eukaryota, Umbelopsis
+233,233,1127, Eukaryota, Asterotremella
+234,234,1128, Bacteria, Serratia
+235,235,1154, Eukaryota, Trichosporon
+236,236,1155, Bacteria, Pseudomonas
+237,237,1161, Bacteria, Burkholderia
